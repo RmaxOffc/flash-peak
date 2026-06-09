@@ -2,19 +2,19 @@
   "match_id": "FP20260606-002",
   "date": "2026-06-06",
   "time": "19:15",
-  "left_team_name": "Team Alpha",
-  "right_team_name": "Team Cobra",
-  "score": { "left_team": 3, "right_team": 2 },
+  "left_team_name": "Team 2",
+  "right_team_name": "Team 4",
+  "score": {"left_team": 3, "right_team": 2},
   "winner": "left_team",
   "mvp": "kwintil",
   "players": [
-    {"name": "G969", "team": "left", "goal": 0, "assist": 0, "pass": 0, "tackle": 0, "block": 0},
-    {"name": "kongkalikong", "team": "left", "goal": 2, "assist": 0, "pass": 2, "tackle": 2, "block": 0},
-    {"name": "kwintil", "team": "left", "goal": 1, "assist": 0, "pass": 2, "tackle": 7, "block": 1},
-    {"name": "MaJan", "team": "left", "goal": 0, "assist": 0, "pass": 3, "tackle": 2, "block": 0},
-    {"name": "ROSDOK++", "team": "right", "goal": 0, "assist": 0, "pass": 0, "tackle": 2, "block": 1},
-    {"name": "zidane05", "team": "right", "goal": 1, "assist": 0, "pass": 2, "tackle": 2, "block": 0},
-    {"name": "Smsudinkece", "team": "right", "goal": 1, "assist": 0, "pass": 5, "tackle": 0, "block": 0},
-    {"name": "supri*skena", "team": "right", "goal": 0, "assist": 0, "pass": 1, "tackle": 2, "block": 1}
+    {"name": "BRUTALXI_!", "team": "left", "goal": 1, "assist": 0, "pass": 4, "tackle": 2, "block": 0},
+    {"name": "Xgors", "team": "left", "goal": 1, "assist": 0, "pass": 8, "tackle": 1, "block": 0},
+    {"name": "kwintil", "team": "left", "goal": 0, "assist": 1, "pass": 6, "tackle": 2, "block": 0},
+    {"name": "Jesterx", "team": "left", "goal": 1, "assist": 1, "pass": 8, "tackle": 2, "block": 0},
+    {"name": "corziee", "team": "right", "goal": 0, "assist": 0, "pass": 1, "tackle": 1, "block": 0},
+    {"name": "wongcilek", "team": "right", "goal": 1, "assist": 0, "pass": 8, "tackle": 1, "block": 1},
+    {"name": "TutulsGol", "team": "right", "goal": 1, "assist": 0, "pass": 5, "tackle": 0, "block": 0},
+    {"name": "Kiza_Jr", "team": "right", "goal": 0, "assist": 2, "pass": 4, "tackle": 0, "block": 2}
   ]
 }
