@@ -1,0 +1,20 @@
+{
+  "match_id": "FP20260609-001",
+  "date": "2026-06-09",
+  "time": "19:08",
+  "left_team_name": "Team 2",
+  "right_team_name": "Team 1",
+  "score": {"left_team": 4, "right_team": 3},
+  "winner": "left_team",
+  "mvp": "kwintil",
+  "players": [
+    {"name": "Xgors", "team": "left", "goal": 2, "assist": 0, "pass": 7, "tackle": 1, "block": 1},
+    {"name": "BRUTALXI_!", "team": "left", "goal": 1, "assist": 2, "pass": 9, "tackle": 2, "block": 0},
+    {"name": "kwintil", "team": "left", "goal": 0, "assist": 1, "pass": 4, "tackle": 2, "block": 1},
+    {"name": "Jesterx", "team": "left", "goal": 1, "assist": 0, "pass": 3, "tackle": 1, "block": 0},
+    {"name": "G969", "team": "right", "goal": 2, "assist": 1, "pass": 1, "tackle": 2, "block": 0},
+    {"name": "Kaynn", "team": "right", "goal": 0, "assist": 1, "pass": 12, "tackle": 1, "block": 0},
+    {"name": "EricTohir", "team": "right", "goal": 0, "assist": 0, "pass": 8, "tackle": 0, "block": 1},
+    {"name": "EmbegeNyaWok", "team": "right", "goal": 1, "assist": 1, "pass": 4, "tackle": 3, "block": 1}
+  ]
+}
