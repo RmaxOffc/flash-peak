@@ -1,0 +1,37 @@
+{
+  "tournament": "Flash Peak Cup 2024",
+  "date": "15-20 Desember 2024",
+  "rounds": [
+    {
+      "name": "Semifinal",
+      "matches": [
+        {
+          "left_team": "Team Alpha",
+          "left_score": 3,
+          "right_team": "Team Beta",
+          "right_score": 1,
+          "winner": "left"
+        },
+        {
+          "left_team": "Team Gamma",
+          "left_score": 2,
+          "right_team": "Team Delta",
+          "right_score": 3,
+          "winner": "right"
+        }
+      ]
+    },
+    {
+      "name": "Grand Final",
+      "matches": [
+        {
+          "left_team": "Team Alpha",
+          "left_score": 4,
+          "right_team": "Team Delta",
+          "right_score": 2,
+          "winner": "left"
+        }
+      ]
+    }
+  ]
+}
