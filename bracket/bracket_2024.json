@@ -1,35 +1,89 @@
 {
-  "tournament": "Flash Peak Cup 2024",
+  "tournament": "2024 Flash Peak Cup",
   "date": "15-20 Desember 2024",
+  "image": "https://example.com/bracket-image.jpg",
+  "awards": {
+    "mvp": "Nama Pemain",
+    "golden_boot": "Nama Pemain",
+    "best_midfielder": "Nama Pemain",
+    "best_defender": "Nama Pemain",
+    "winner": "Nama Club"
+  },
   "rounds": [
     {
-      "name": "Semifinal",
+      "name": "Round of 16",
       "matches": [
         {
-          "left_team": "Team Alpha",
+          "id": "R16-1",
+          "left_team": "NED",
           "left_score": 3,
-          "right_team": "Team Beta",
+          "right_team": "USA",
           "right_score": 1,
-          "winner": "left"
+          "winner": "left",
+          "next_match_id": "QF-1"
         },
         {
-          "left_team": "Team Gamma",
+          "id": "R16-2",
+          "left_team": "ARG",
           "left_score": 2,
-          "right_team": "Team Delta",
-          "right_score": 3,
-          "winner": "right"
+          "right_team": "FRA",
+          "right_score": 4,
+          "winner": "right",
+          "next_match_id": "QF-1"
         }
       ]
     },
     {
-      "name": "Grand Final",
+      "name": "Quarterfinal",
       "matches": [
         {
-          "left_team": "Team Alpha",
+          "id": "QF-1",
+          "left_team": "NED",
+          "left_score": 2,
+          "right_team": "FRA",
+          "right_score": 3,
+          "winner": "right",
+          "next_match_id": "SF-1"
+        }
+      ]
+    },
+    {
+      "name": "Semifinal",
+      "matches": [
+        {
+          "id": "SF-1",
+          "left_team": "FRA",
+          "left_score": 1,
+          "right_team": "TBC",
+          "right_score": 0,
+          "winner": "left",
+          "next_match_id": "F-1"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "id": "F-1",
+          "left_team": "FRA",
           "left_score": 4,
-          "right_team": "Team Delta",
+          "right_team": "TBC",
           "right_score": 2,
           "winner": "left"
+        }
+      ]
+    },
+    {
+      "name": "3rd Place",
+      "matches": [
+        {
+          "id": "3P-1",
+          "left_team": "TBC",
+          "left_score": 0,
+          "right_team": "TBC",
+          "right_score": 0,
+          "winner": "draw"
         }
       ]
     }
