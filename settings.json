@@ -1,9 +1,1 @@
-{
-  "registration": "true",
-  "dashboard": true,
-  "leaderboard": true,
-  "matches": true,
-  "teams": true,
-  "tournament": true,
-  "bracket": true
-}
+{ "registration": "true", "dashboard": true, "leaderboard": true, "matches": true, "teams": true, "tournament": true, "bracket": true }
