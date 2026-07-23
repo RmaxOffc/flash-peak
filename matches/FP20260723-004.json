@@ -1,0 +1,80 @@
+{
+  "match_id": "FP20260723-002",
+  "date": "2026-07-23",
+  "time": null,
+  "left_team_name": "BK FC",
+  "right_team_name": "Medioker FC",
+  "score": {
+    "left_team": 4,
+    "right_team": 3
+  },
+  "winner": "BK FC",
+  "mvp": "JustBiLL",
+  "svp": "POLARINHO",
+  "players": [
+    {
+      "name": "JustBiLL",
+      "team": "BK FC",
+      "goal": 3,
+      "assist": 1,
+      "pass": 4,
+      "defense": 4
+    },
+    {
+      "name": "Srielll",
+      "team": "BK FC",
+      "goal": 1,
+      "assist": 1,
+      "pass": 6,
+      "defense": 3
+    },
+    {
+      "name": "Kelphinn",
+      "team": "BK FC",
+      "goal": 0,
+      "assist": 0,
+      "pass": 5,
+      "defense": 7
+    },
+    {
+      "name": "superrrsugusz",
+      "team": "BK FC",
+      "goal": 0,
+      "assist": 0,
+      "pass": 3,
+      "defense": 4
+    },
+    {
+      "name": "POLARINHO",
+      "team": "Medioker FC",
+      "goal": 0,
+      "assist": 1,
+      "pass": 12,
+      "defense": 6
+    },
+    {
+      "name": "MalFax",
+      "team": "Medioker FC",
+      "goal": 1,
+      "assist": 1,
+      "pass": 13,
+      "defense": 2
+    },
+    {
+      "name": "CrudeXI",
+      "team": "Medioker FC",
+      "goal": 1,
+      "assist": 1,
+      "pass": 11,
+      "defense": 2
+    },
+    {
+      "name": "babayoooo",
+      "team": "Medioker FC",
+      "goal": 1,
+      "assist": 0,
+      "pass": 6,
+      "defense": 0
+    }
+  ]
+}
