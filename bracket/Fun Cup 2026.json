@@ -14,10 +14,10 @@
   },
   "left": [
     [
-      { "seed1": 1, "team1": "Team Medioker FC", "seed2": 8, "team2": "Team The Brothers", "winner": null },
-      { "seed1": 4, "team1": "Team Agility FC Div2", "seed2": 5, "team2": "Team Godplan", "winner": null },
-      { "seed1": 3, "team1": "Team Atlantic", "seed2": 6, "team2": "Team Vortex", "winner": null },
-      { "seed1": 2, "team1": "Team Jagoan Abah", "seed2": 7, "team2": "Team Allstar FC", "winner": null }
+      { "seed1": 1, "team1": "Team Medioker FC", "seed2": 2, "team2": "Team Jagoan Abah", "winner": null },
+      { "seed1": 3, "team1": "Team Atlantic", "seed2": 4, "team2": "Team Agility FC Div2", "winner": null },
+      { "seed1": 5, "team1": "Team Godplan", "seed2": 6, "team2": "Team Vortex", "winner": null },
+      { "seed1": 7, "team1": "Team Allstar FC", "seed2": 8, "team2": "Team The Brothers", "winner": null }
     ],
     [
       { "team1": null, "team2": null, "winner": null },
@@ -29,10 +29,10 @@
   ],
   "right": [
     [
-      { "seed1": 9, "team1": "Team Invictus", "seed2": 16, "team2": "Team Mustang", "winner": null },
-      { "seed1": 12, "team1": "Team War 4 Win", "seed2": 13, "team2": "Team Unos", "winner": null },
-      { "seed1": 11, "team1": "Team Helix", "seed2": 14, "team2": "Team Atletico Club", "winner": null },
-      { "seed1": 10, "team1": "Team BK FC", "seed2": 15, "team2": "Team Agility FC Div1", "winner": null }
+      { "seed1": 9, "team1": "Team Invictus", "seed2": 10, "team2": "Team BK FC", "winner": null },
+      { "seed1": 11, "team1": "Team Helix", "seed2": 12, "team2": "Team War 4 Win", "winner": null },
+      { "seed1": 13, "team1": "Team Unos", "seed2": 14, "team2": "Team Atletico Club", "winner": null },
+      { "seed1": 15, "team1": "Team Agility FC Div1", "seed2": 16, "team2": "Team Mustang", "winner": null }
     ],
     [
       { "team1": null, "team2": null, "winner": null },
@@ -42,4 +42,4 @@
       { "team1": null, "team2": null, "winner": null }
     ]
   ]
-      }
+}
