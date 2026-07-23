@@ -1,0 +1,87 @@
+{
+  "match_id": "FP20260723-008",
+  "date": "2026-07-23",
+  "time": "19:00",
+  "left_team_name": "The brothers",
+  "right_team_name": "Jagoan abah",
+  "score": {
+    "left_team": 5,
+    "right_team": 3
+  },
+  "winner": "left_team",
+  "mvp": "Bro | Coly ☠",
+  "players": [
+    {
+      "name": "Bro | Coly ☠",
+      "team": "left",
+      "goal": 4,
+      "assist": 0,
+      "pass": 17,
+      "tackle": 4,
+      "block": 0
+    },
+    {
+      "name": "Pedri8.",
+      "team": "left",
+      "goal": 1,
+      "assist": 1,
+      "pass": 23,
+      "tackle": 0,
+      "block": 0
+    },
+    {
+      "name": "Demons",
+      "team": "left",
+      "goal": 0,
+      "assist": 3,
+      "pass": 14,
+      "tackle": 3,
+      "block": 0
+    },
+    {
+      "name": "KylianAlles.",
+      "team": "left",
+      "goal": 0,
+      "assist": 0,
+      "pass": 7,
+      "tackle": 4,
+      "block": 0
+    },
+    {
+      "name": "GemPivv",
+      "team": "right",
+      "goal": 0,
+      "assist": 1,
+      "pass": 9,
+      "tackle": 13,
+      "block": 0
+    },
+    {
+      "name": "RRQ.ekoElEl",
+      "team": "right",
+      "goal": 2,
+      "assist": 1,
+      "pass": 1,
+      "tackle": 2,
+      "block": 0
+    },
+    {
+      "name": "Arch",
+      "team": "right",
+      "goal": 1,
+      "assist": 0,
+      "pass": 5,
+      "tackle": 1,
+      "block": 0
+    },
+    {
+      "name": "Luridu3",
+      "team": "right",
+      "goal": 0,
+      "assist": 0,
+      "pass": 4,
+      "tackle": 2,
+      "block": 0
+    }
+  ]
+}
