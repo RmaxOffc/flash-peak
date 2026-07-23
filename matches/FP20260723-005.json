@@ -8,68 +8,83 @@
     "left_team": 4,
     "right_team": 3
   },
-  "winner": "BK FC",
+  "winner": "left_team",
   "mvp": "JustBiLL",
-  "svp": "POLARINHO",
   "players": [
     {
       "name": "JustBiLL",
-      "team": "BK FC",
+      "team": "left",
       "goal": 3,
       "assist": 1,
       "pass": 4,
-      "defense": 4
+      "tackle": 4,
+      "block": 0
     },
     {
       "name": "Srielll",
-      "team": "BK FC",
+      "team": "left",
       "goal": 1,
       "assist": 1,
       "pass": 6,
-      "defense": 3
+      "tackle": 3,
+      "block": 0
     },
     {
       "name": "Kelphinn",
-      "team": "BK FC",
+      "team": "left",
       "goal": 0,
       "assist": 0,
       "pass": 5,
-      "defense": 7
+      "tackle": 7,
+      "block": 0
     },
     {
       "name": "superrrsugusz",
-      "team": "BK FC",
+      "team": "left",
       "goal": 0,
       "assist": 0,
       "pass": 3,
-      "defense": 4
+      "tackle": 4,
+      "block": 0
     },
     {
       "name": "POLARINHO",
-      "team": "Medioker FC",
+      "team": "right",
       "goal": 0,
       "assist": 1,
       "pass": 12,
-      "defense": 6
+      "tackle": 6,
+      "block": 0
     },
     {
       "name": "MalFax",
-      "team": "Medioker FC",
+      "team": "right",
       "goal": 1,
       "assist": 1,
       "pass": 13,
-      "defense": 2
+      "tackle": 2,
+      "block": 0
     },
     {
       "name": "CrudeXI",
-      "team": "Medioker FC",
+      "team": "right",
       "goal": 1,
       "assist": 1,
       "pass": 11,
-      "defense": 2
+      "tackle": 2,
+      "block": 0
     },
     {
       "name": "babayoooo",
+      "team": "right",
+      "goal": 1,
+      "assist": 0,
+      "pass": 6,
+      "tackle": 0,
+      "block": 0
+    }
+  ]
+}      "name": "babayoooo",
       "team": "Medioker FC",
       "goal": 1,
       "assist": 0,
