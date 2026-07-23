@@ -1,0 +1,18 @@
+{
+  "match_id": "FP20260723-014",
+  "left_team_name": "Mustang",
+  "right_team_name": "Godplan",
+  "score": { "left_team": 3, "right_team": 2 },
+  "winner": "left_team",
+  "mvp": "PesutBalap",
+  "players": [
+    { "name": "PesutBalap", "team": "left", "goal": 3, "assist": 0, "pass": 6, "tackle": 3, "block": 0 },
+    { "name": "Prabow0", "team": "left", "goal": 0, "assist": 2, "pass": 6, "tackle": 5, "block": 0 },
+    { "name": "Minjuu", "team": "left", "goal": 0, "assist": 0, "pass": 6, "tackle": 6, "block": 0 },
+    { "name": "RiquiPuig", "team": "left", "goal": 0, "assist": 1, "pass": 5, "tackle": 1, "block": 0 },
+    { "name": "SoraGod", "team": "right", "goal": 1, "assist": 0, "pass": 12, "tackle": 5, "block": 0 },
+    { "name": "MIAWGOD", "team": "right", "goal": 0, "assist": 1, "pass": 7, "tackle": 9, "block": 0 },
+    { "name": "GrimGod", "team": "right", "goal": 1, "assist": 0, "pass": 9, "tackle": 3, "block": 0 },
+    { "name": "CielGod", "team": "right", "goal": 0, "assist": 0, "pass": 8, "tackle": 5, "block": 0 }
+  ]
+}
