@@ -1,5 +1,7 @@
 {
   "match_id": "FP20260723-015",
+    "date": "2026-07-23",
+  "time": "19:00",
   "left_team_name": "Mustang",
   "right_team_name": "Godplan",
   "score": { "left_team": 4, "right_team": 3 },
