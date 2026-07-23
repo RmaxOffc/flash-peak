@@ -1,10 +1,10 @@
 {
-  "match_id": "FP20260723-004",
+  "match_id": "FP20260723-003",
   "date": "2026-07-23",
-  "time": null,
+  "time": "19:00",
   "left_team_name": "BK FC",
   "right_team_name": "Medioker FC",
-  "score": {"left_team": 4, "right_team": 3},
+  "score": { "left_team": 4, "right_team": 3 },
   "winner": "left_team",
   "mvp": "Srielll",
   "players": [
