@@ -1,0 +1,45 @@
+{
+  "tournament": "FUN CUP 2026",
+  "year": 2026,
+  "date": "2026-07-24",
+  "status": "Ongoing",
+  "champion": null,
+  "awards": {
+    "winner": null,
+    "mvp": null,
+    "golden_boot": null,
+    "best_midfielder": null,
+    "best_defender": null,
+    "best_goalkeeper": null
+  },
+  "left": [
+    [
+      { "seed1": 1, "team1": "Team Medioker FC", "seed2": 8, "team2": "Team The Brothers", "winner": null },
+      { "seed1": 4, "team1": "Team Agility FC Div2", "seed2": 5, "team2": "Team Godplan", "winner": null },
+      { "seed1": 3, "team1": "Team Atlantic", "seed2": 6, "team2": "Team Vortex", "winner": null },
+      { "seed1": 2, "team1": "Team Jagoan Abah", "seed2": 7, "team2": "Team Allstar FC", "winner": null }
+    ],
+    [
+      { "team1": null, "team2": null, "winner": null },
+      { "team1": null, "team2": null, "winner": null }
+    ],
+    [
+      { "team1": null, "team2": null, "winner": null }
+    ]
+  ],
+  "right": [
+    [
+      { "seed1": 9, "team1": "Team Invictus", "seed2": 16, "team2": "Team Mustang", "winner": null },
+      { "seed1": 12, "team1": "Team War 4 Win", "seed2": 13, "team2": "Team Unos", "winner": null },
+      { "seed1": 11, "team1": "Team Helix", "seed2": 14, "team2": "Team Atletico Club", "winner": null },
+      { "seed1": 10, "team1": "Team BK FC", "seed2": 15, "team2": "Team Agility FC Div1", "winner": null }
+    ],
+    [
+      { "team1": null, "team2": null, "winner": null },
+      { "team1": null, "team2": null, "winner": null }
+    ],
+    [
+      { "team1": null, "team2": null, "winner": null }
+    ]
+  ]
+      }
