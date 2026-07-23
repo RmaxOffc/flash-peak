@@ -1,0 +1,20 @@
+{
+  "match_id": "FP20260723-006",
+  "date": "2026-07-23",
+  "time": "19:00",
+  "left_team_name": "Allstars",
+  "right_team_name": "Agility FC Div1",
+  "score": { "left_team": 0, "right_team": 2 },
+  "winner": "right_team",
+  "mvp": "LEONGOREZKA",
+  "players": [
+    { "name": "SINN2000", "team": "left", "goal": 0, "assist": 0, "pass": 8, "tackle": 8, "block": 0 },
+    { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 10, "tackle": 1, "block": 0 },
+    { "name": "C.RONALDO0", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 4, "block": 0 },
+    { "name": "Alzel", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 2, "block": 0 },
+    { "name": "LEONGOREZKA", "team": "right", "goal": 0, "assist": 2, "pass": 12, "tackle": 4, "block": 0 },
+    { "name": "JohanPaw", "team": "right", "goal": 0, "assist": 0, "pass": 10, "tackle": 6, "block": 0 },
+    { "name": "zierrbaikk", "team": "right", "goal": 2, "assist": 0, "pass": 6, "tackle": 0, "block": 0 },
+    { "name": "drakaa", "team": "right", "goal": 0, "assist": 0, "pass": 9, "tackle": 2, "block": 0 }
+  ]
+}
