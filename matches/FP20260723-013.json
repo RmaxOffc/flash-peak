@@ -1,0 +1,18 @@
+{
+  "match_id": "FP20260723-013",
+  "left_team_name": "The brothers",
+  "right_team_name": "Jagoan abah",
+  "score": { "left_team": 3, "right_team": 4 },
+  "winner": "right_team",
+  "mvp": "GemPiw",
+  "players": [
+    { "name": "Pedri8.", "team": "left", "goal": 0, "assist": 2, "pass": 25, "tackle": 2, "block": 0 },
+    { "name": "Bro | Coly ☠", "team": "left", "goal": 3, "assist": 0, "pass": 13, "tackle": 3, "block": 0 },
+    { "name": "Demons", "team": "left", "goal": 0, "assist": 0, "pass": 15, "tackle": 3, "block": 0 },
+    { "name": "BrickWall", "team": "left", "goal": 0, "assist": 0, "pass": 9, "tackle": 5, "block": 0 },
+    { "name": "GemPiw", "team": "right", "goal": 0, "assist": 1, "pass": 5, "tackle": 18, "block": 0 },
+    { "name": "RRQ.ekoElEl", "team": "right", "goal": 4, "assist": 0, "pass": 1, "tackle": 2, "block": 0 },
+    { "name": "Arch", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 2, "block": 0 },
+    { "name": "Luridu3", "team": "right", "goal": 0, "assist": 0, "pass": 1, "tackle": 3, "block": 0 }
+  ]
+}
