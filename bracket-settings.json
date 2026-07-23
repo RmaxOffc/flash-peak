@@ -1,103 +1,116 @@
 {
-  "tournament": "TESTING",
-  "year": 2025,
-  "date": "2025-11-15",
-  "status": "Completed",
-  "champion": "Team Alpha",
-  "awards": {
-    "winner": "Team Alpha",
-    "mvp": "Player Rizky",
-    "golden_boot": "Player Rizky",
-    "best_midfielder": "Player Dedi",
-    "best_defender": "Player Sandi",
-    "best_goalkeeper": "Player Firman"
-  },
+  "tournament": "Flash Peak Apex Master Championsip Vol.1",
+  "year": "2026",
+  "status": "Ongoing",
+  "champion": "TBD",
   "left": [
     [
       {
         "seed1": 1,
-        "team1": "Team Alpha",
-        "seed2": 2,
-        "team2": "Team Bravo",
-        "winner": "Team Alpha"
+        "team1": "Team 1",
+        "seed2": 16,
+        "team2": "Team 16",
+        "winner": ""
       },
       {
-        "seed1": 3,
-        "team1": "Team Charlie",
-        "seed2": 4,
-        "team2": "Team Delta",
-        "winner": "Team Charlie"
+        "seed1": 8,
+        "team1": "Team 8",
+        "seed2": 9,
+        "team2": "Team 9",
+        "winner": ""
+      },
+      {
+        "seed1": 4,
+        "team1": "Team 4",
+        "seed2": 13,
+        "team2": "Team 13",
+        "winner": ""
       },
       {
         "seed1": 5,
-        "team1": "Team Echo",
-        "seed2": 6,
-        "team2": "Team Foxtrot",
-        "winner": "Team Echo"
+        "team1": "Team 5",
+        "seed2": 12,
+        "team2": "Team 12",
+        "winner": ""
       }
     ],
     [
       {
-        "team1": "Team Alpha",
-        "team2": "Team Charlie",
-        "winner": "Team Alpha"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       },
       {
-        "team1": "Team Echo",
-        "team2": "Team Golf",
-        "winner": "Team Echo"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       }
     ],
     [
       {
-        "team1": "Team Alpha",
-        "team2": "Team Echo",
-        "winner": "Team Alpha"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       }
     ]
   ],
   "right": [
     [
       {
-        "seed1": 8,
-        "team1": "Team Hotel",
-        "seed2": 9,
-        "team2": "Team India",
-        "winner": "Team Hotel"
+        "seed1": 2,
+        "team1": "Team 2",
+        "seed2": 15,
+        "team2": "Team 15",
+        "winner": ""
       },
       {
-        "seed1": 10,
-        "team1": "Team Juliet",
+        "seed1": 7,
+        "team1": "Team 7",
+        "seed2": 10,
+        "team2": "Team 10",
+        "winner": ""
+      },
+      {
+        "seed1": 3,
+        "team1": "Team 3",
+        "seed2": 14,
+        "team2": "Team 14",
+        "winner": ""
+      },
+      {
+        "seed1": 6,
+        "team1": "Team 6",
         "seed2": 11,
-        "team2": "Team Kilo",
-        "winner": "Team Juliet"
-      },
-      {
-        "seed1": 12,
-        "team1": "Team Lima",
-        "seed2": 13,
-        "team2": "Team Mike",
-        "winner": "Team Lima"
+        "team2": "Team 11",
+        "winner": ""
       }
     ],
     [
       {
-        "team1": "Team Hotel",
-        "team2": "Team Juliet",
-        "winner": "Team Hotel"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       },
       {
-        "team1": "Team Lima",
-        "team2": "Team November",
-        "winner": "Team Lima"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       }
     ],
     [
       {
-        "team1": "Team Hotel",
-        "team2": "Team Lima",
-        "winner": "Team Hotel"
+        "team1": "",
+        "team2": "",
+        "winner": ""
       }
     ]
-  ]
+  ],
+  "awards": {
+    "winner": "TBD",
+    "mvp": "TBD",
+    "golden_boot": "TBD",
+    "best_midfielder": "TBD",
+    "best_defender": "TBD",
+    "best_goalkeeper": "TBD"
+  }
 }
