@@ -1,0 +1,103 @@
+{
+  "tournament": "TESTING",
+  "year": 2025,
+  "date": "2025-11-15",
+  "status": "Completed",
+  "champion": "Team Alpha",
+  "awards": {
+    "winner": "Team Alpha",
+    "mvp": "Player Rizky",
+    "golden_boot": "Player Rizky",
+    "best_midfielder": "Player Dedi",
+    "best_defender": "Player Sandi",
+    "best_goalkeeper": "Player Firman"
+  },
+  "left": [
+    [
+      {
+        "seed1": 1,
+        "team1": "Team Alpha",
+        "seed2": 2,
+        "team2": "Team Bravo",
+        "winner": "Team Alpha"
+      },
+      {
+        "seed1": 3,
+        "team1": "Team Charlie",
+        "seed2": 4,
+        "team2": "Team Delta",
+        "winner": "Team Charlie"
+      },
+      {
+        "seed1": 5,
+        "team1": "Team Echo",
+        "seed2": 6,
+        "team2": "Team Foxtrot",
+        "winner": "Team Echo"
+      }
+    ],
+    [
+      {
+        "team1": "Team Alpha",
+        "team2": "Team Charlie",
+        "winner": "Team Alpha"
+      },
+      {
+        "team1": "Team Echo",
+        "team2": "Team Golf",
+        "winner": "Team Echo"
+      }
+    ],
+    [
+      {
+        "team1": "Team Alpha",
+        "team2": "Team Echo",
+        "winner": "Team Alpha"
+      }
+    ]
+  ],
+  "right": [
+    [
+      {
+        "seed1": 8,
+        "team1": "Team Hotel",
+        "seed2": 9,
+        "team2": "Team India",
+        "winner": "Team Hotel"
+      },
+      {
+        "seed1": 10,
+        "team1": "Team Juliet",
+        "seed2": 11,
+        "team2": "Team Kilo",
+        "winner": "Team Juliet"
+      },
+      {
+        "seed1": 12,
+        "team1": "Team Lima",
+        "seed2": 13,
+        "team2": "Team Mike",
+        "winner": "Team Lima"
+      }
+    ],
+    [
+      {
+        "team1": "Team Hotel",
+        "team2": "Team Juliet",
+        "winner": "Team Hotel"
+      },
+      {
+        "team1": "Team Lima",
+        "team2": "Team November",
+        "winner": "Team Lima"
+      }
+    ],
+    [
+      {
+        "team1": "Team Hotel",
+        "team2": "Team Lima",
+        "winner": "Team Hotel"
+      }
+    ]
+  ]
+}
