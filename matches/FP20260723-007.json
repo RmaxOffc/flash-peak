@@ -1,0 +1,20 @@
+{
+  "match_id": "FP20260723-005",
+  "date": "2026-07-23",
+  "time": "19:00",
+  "left_team_name": "W4W",
+  "right_team_name": "UNOS",
+  "score": { "left_team": 3, "right_team": 0 },
+  "winner": "left_team",
+  "mvp": "AKBARMODEW4W",
+  "players": [
+    { "name": "AKBARMODEW4W", "team": "left", "goal": 3, "assist": 0, "pass": 10, "tackle": 7, "block": 0 },
+    { "name": "W4W D4TUK ツ", "team": "left", "goal": 0, "assist": 2, "pass": 10, "tackle": 4, "block": 0 },
+    { "name": "JakEgoist", "team": "left", "goal": 0, "assist": 0, "pass": 1, "tackle": 4, "block": 0 },
+    { "name": "W4W 4LIM ツ", "team": "left", "goal": 0, "assist": 0, "pass": 2, "tackle": 1, "block": 0 },
+    { "name": "itzrealmee", "team": "right", "goal": 0, "assist": 0, "pass": 7, "tackle": 6, "block": 0 },
+    { "name": "uresmane", "team": "right", "goal": 0, "assist": 0, "pass": 5, "tackle": 4, "block": 0 },
+    { "name": "LeoDeLiÁ", "team": "right", "goal": 0, "assist": 0, "pass": 8, "tackle": 1, "block": 0 },
+    { "name": "AanJR2", "team": "right", "goal": 0, "assist": 0, "pass": 8, "tackle": 3, "block": 0 }
+  ]
+}
