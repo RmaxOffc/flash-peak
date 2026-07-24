@@ -1,0 +1,20 @@
+{
+  "match_id": "FP20260724-018",
+  "date": "2026-07-24",
+  "time": "19:00",
+  "left_team_name": "BK FC",
+  "right_team_name": "W4W",
+  "score": { "left_team": 5, "right_team": 0 },
+  "winner": "left_team",
+  "mvp": "Srielll",
+  "players": [
+    { "name": "Srielll", "team": "left", "goal": 1, "assist": 4, "pass": 9, "tackle": 5, "block": 0 },
+    { "name": "Sakomoto", "team": "left", "goal": 4, "assist": 0, "pass": 1, "tackle": 3, "block": 0 },
+    { "name": "superrsugusz", "team": "left", "goal": 0, "assist": 1, "pass": 4, "tackle": 4, "block": 0 },
+    { "name": "JustBiLL", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 5, "block": 0 },
+    { "name": "KNA", "team": "right", "goal": 0, "assist": 0, "pass": 4, "tackle": 3, "block": 0 },
+    { "name": "AKBARMODEW4W", "team": "right", "goal": 0, "assist": 0, "pass": 3, "tackle": 3, "block": 0 },
+    { "name": "W4W DATUK ツ", "team": "right", "goal": 0, "assist": 0, "pass": 3, "tackle": 2, "block": 0 },
+    { "name": "W4W 4LIM ツ", "team": "right", "goal": 0, "assist": 0, "pass": 0, "tackle": 3, "block": 0 }
+  ]
+}
