@@ -1,0 +1,20 @@
+{
+  "match_id": "FP20260724-016",
+  "date": "2026-07-23",
+  "time": "19:00",
+  "left_team_name": "Jagoan Abah",
+  "right_team_name": "Vortex",
+  "score": { "left_team": 6, "right_team": 3 },
+  "winner": "left_team",
+  "mvp": "RRQ.ekoElEl",
+  "players": [
+    { "name": "RRQ.ekoElEl", "team": "left", "goal": 5, "assist": 1, "pass": 10, "tackle": 1, "block": 0 },
+    { "name": "GemPiw", "team": "left", "goal": 0, "assist": 2, "pass": 13, "tackle": 23, "block": 0 },
+    { "name": "AldeZ", "team": "left", "goal": 1, "assist": 1, "pass": 7, "tackle": 3, "block": 0 },
+    { "name": "Luridu3", "team": "left", "goal": 0, "assist": 0, "pass": 3, "tackle": 4, "block": 0 },
+    { "name": "Smoky.", "team": "right", "goal": 1, "assist": 2, "pass": 11, "tackle": 3, "block": 0 },
+    { "name": "yooslebeww99", "team": "right", "goal": 1, "assist": 0, "pass": 6, "tackle": 6, "block": 0 },
+    { "name": "Cilzyeiei", "team": "right", "goal": 1, "assist": 0, "pass": 4, "tackle": 3, "block": 0 },
+    { "name": "vasterman", "team": "right", "goal": 0, "assist": 0, "pass": 3, "tackle": 4, "block": 0 }
+  ]
+}
