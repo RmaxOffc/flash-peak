@@ -1,0 +1,142 @@
+[
+  {
+    "match_id": "FP20260723-001",
+    "date": "2026-07-23",
+    "time": "13:00",
+    "left_team_name": "Allstar",
+    "right_team_name": "Mustang",
+    "score": { "left_team": 6, "right_team": 3 },
+    "winner": "left_team",
+    "mvp": "C.RONALDO",
+    "players": [
+      { "name": "C.RONALDO", "team": "left", "goal": 6, "assist": 0, "pass": 4, "tackle": 1, "block": 0 },
+      { "name": "Alzel", "team": "left", "goal": 0, "assist": 4, "pass": 10, "tackle": 3, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 1, "pass": 12, "tackle": 11, "block": 0 },
+      { "name": "SINN2000", "team": "left", "goal": 0, "assist": 1, "pass": 9, "tackle": 8, "block": 0 },
+      { "name": "Minjuju", "team": "right", "goal": 0, "assist": 1, "pass": 11, "tackle": 8, "block": 0 },
+      { "name": "PesutBalap", "team": "right", "goal": 3, "assist": 0, "pass": 0, "tackle": 1, "block": 0 },
+      { "name": "RiquiPuig", "team": "right", "goal": 0, "assist": 1, "pass": 6, "tackle": 3, "block": 0 },
+      { "name": "Prabowo", "team": "right", "goal": 0, "assist": 0, "pass": 2, "tackle": 7, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260723-002",
+    "date": "2026-07-23",
+    "time": "15:00",
+    "left_team_name": "Allstar",
+    "right_team_name": "Mustang",
+    "score": { "left_team": 4, "right_team": 3 },
+    "winner": "left_team",
+    "mvp": "Alzel",
+    "players": [
+      { "name": "Alzel", "team": "left", "goal": 1, "assist": 2, "pass": 10, "tackle": 6, "block": 0 },
+      { "name": "SINN2000", "team": "left", "goal": 0, "assist": 1, "pass": 13, "tackle": 8, "block": 0 },
+      { "name": "C.RONALD000", "team": "left", "goal": 3, "assist": 0, "pass": 5, "tackle": 2, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 3, "block": 0 },
+      { "name": "RiquiPuig", "team": "right", "goal": 1, "assist": 1, "pass": 7, "tackle": 6, "block": 0 },
+      { "name": "Prabowo", "team": "right", "goal": 0, "assist": 0, "pass": 3, "tackle": 8, "block": 0 },
+      { "name": "Minjau", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
+      { "name": "PesutBalap", "team": "right", "goal": 2, "assist": 0, "pass": 2, "tackle": 1, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260723-003",
+    "date": "2026-07-23",
+    "time": "17:00",
+    "left_team_name": "Agility FC Div2",
+    "right_team_name": "Jagoan Abah",
+    "score": { "left_team": 4, "right_team": 1 },
+    "winner": "left_team",
+    "mvp": "RHYNEX",
+    "players": [
+      { "name": "RHYNEX", "team": "left", "goal": 2, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
+      { "name": "paldas", "team": "left", "goal": 0, "assist": 1, "pass": 11, "tackle": 14, "block": 0 },
+      { "name": "Xiaoyuu", "team": "left", "goal": 2, "assist": 1, "pass": 7, "tackle": 1, "block": 0 },
+      { "name": "Zouu", "team": "left", "goal": 0, "assist": 1, "pass": 7, "tackle": 1, "block": 0 },
+      { "name": "GemPiw", "team": "right", "goal": 0, "assist": 1, "pass": 3, "tackle": 17, "block": 0 },
+      { "name": "Kavv-", "team": "right", "goal": 1, "assist": 0, "pass": 8, "tackle": 6, "block": 0 },
+      { "name": "RRQ.eKoEIEI", "team": "right", "goal": 0, "assist": 0, "pass": 4, "tackle": 2, "block": 0 },
+      { "name": "Luridu3", "team": "right", "goal": 0, "assist": 0, "pass": 2, "tackle": 2, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260723-004",
+    "date": "2026-07-23",
+    "time": "19:00",
+    "left_team_name": "Agility FC Div2",
+    "right_team_name": "Jagoan Abah",
+    "score": { "left_team": 3, "right_team": 4 },
+    "winner": "right_team",
+    "mvp": "RRQ.ekoEIEI",
+    "players": [
+      { "name": "RHYNEX", "team": "left", "goal": 3, "assist": 0, "pass": 6, "tackle": 3, "block": 0 },
+      { "name": "Zouu", "team": "left", "goal": 0, "assist": 2, "pass": 14, "tackle": 0, "block": 0 },
+      { "name": "paldas", "team": "left", "goal": 0, "assist": 0, "pass": 16, "tackle": 4, "block": 0 },
+      { "name": "Xiaoyuu", "team": "left", "goal": 0, "assist": 0, "pass": 8, "tackle": 3, "block": 0 },
+      { "name": "RRQ.ekoEIEI", "team": "right", "goal": 4, "assist": 0, "pass": 3, "tackle": 4, "block": 0 },
+      { "name": "Kavv-", "team": "right", "goal": 0, "assist": 1, "pass": 6, "tackle": 5, "block": 0 },
+      { "name": "GemPiw", "team": "right", "goal": 0, "assist": 0, "pass": 2, "tackle": 13, "block": 0 },
+      { "name": "Luridu3", "team": "right", "goal": 0, "assist": 0, "pass": 0, "tackle": 3, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260723-005",
+    "date": "2026-07-23",
+    "time": "21:00",
+    "left_team_name": "Agility FC Div2",
+    "right_team_name": "Jagoan Abah",
+    "score": { "left_team": 2, "right_team": 1 },
+    "winner": "left_team",
+    "mvp": "Xiaoyu",
+    "players": [
+      { "name": "Xiaoyu", "team": "left", "goal": 2, "assist": 0, "pass": 6, "tackle": 4, "block": 0 },
+      { "name": "Zouu", "team": "left", "goal": 0, "assist": 0, "pass": 12, "tackle": 4, "block": 0 },
+      { "name": "RHYNEX", "team": "left", "goal": 0, "assist": 0, "pass": 8, "tackle": 3, "block": 0 },
+      { "name": "paldas", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 4, "block": 0 },
+      { "name": "GemPiw", "team": "right", "goal": 0, "assist": 1, "pass": 5, "tackle": 14, "block": 0 },
+      { "name": "Kavv-", "team": "right", "goal": 0, "assist": 0, "pass": 7, "tackle": 2, "block": 0 },
+      { "name": "RRQ.eKoEIEI", "team": "right", "goal": 1, "assist": 0, "pass": 1, "tackle": 2, "block": 0 },
+      { "name": "Luridu3", "team": "right", "goal": 0, "assist": 0, "pass": 1, "tackle": 3, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260724-006",
+    "date": "2026-07-24",
+    "time": "13:00",
+    "left_team_name": "Allstars",
+    "right_team_name": "Agility FC Div2",
+    "score": { "left_team": 5, "right_team": 4 },
+    "winner": "left_team",
+    "mvp": "RHYNEX",
+    "players": [
+      { "name": "SINN2000", "team": "left", "goal": 1, "assist": 0, "pass": 11, "tackle": 8, "block": 0 },
+      { "name": "Alzel", "team": "left", "goal": 2, "assist": 2, "pass": 3, "tackle": 1, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 6, "tackle": 5, "block": 0 },
+      { "name": "C.RONALDO", "team": "left", "goal": 2, "assist": 0, "pass": 1, "tackle": 0, "block": 0 },
+      { "name": "RHYNEX", "team": "right", "goal": 3, "assist": 1, "pass": 11, "tackle": 2, "block": 0 },
+      { "name": "AGI.Madee", "team": "right", "goal": 0, "assist": 0, "pass": 8, "tackle": 18, "block": 0 },
+      { "name": "Zouu", "team": "right", "goal": 1, "assist": 0, "pass": 13, "tackle": 2, "block": 0 },
+      { "name": "Xiaoyuu", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 1, "block": 0 }
+    ]
+  },
+  {
+    "match_id": "FP20260724-007",
+    "date": "2026-07-24",
+    "time": "15:00",
+    "left_team_name": "Allstars",
+    "right_team_name": "Agility FC Div2",
+    "score": { "left_team": 4, "right_team": 2 },
+    "winner": "left_team",
+    "mvp": "Alzel",
+    "players": [
+      { "name": "Alzel", "team": "left", "goal": 1, "assist": 3, "pass": 7, "tackle": 4, "block": 0 },
+      { "name": "SINN2000", "team": "left", "goal": 1, "assist": 0, "pass": 11, "tackle": 9, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 7, "block": 0 },
+      { "name": "C.RONALDO", "team": "left", "goal": 2, "assist": 0, "pass": 7, "tackle": 2, "block": 0 },
+      { "name": "AGI.Madee", "team": "right", "goal": 0, "assist": 0, "pass": 7, "tackle": 13, "block": 0 },
+      { "name": "RHYNEX", "team": "right", "goal": 2, "assist": 0, "pass": 10, "tackle": 3, "block": 0 },
+      { "name": "Xiaoyuu", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
+      { "name": "Zouu", "team": "right", "goal": 0, "assist": 0, "pass": 12, "tackle": 2, "block": 0 }
+    ]
+  }
+]
