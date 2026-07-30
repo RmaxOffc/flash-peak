@@ -1,116 +1,117 @@
 {
-  "tournament": "Flash Peak Apex Master Championsip Vol.1",
-  "year": "2026",
+  "tournament": "FUN CUP 2026",
+  "year": 2026,
+  "date": "2026-07-24",
   "status": "Ongoing",
-  "champion": "TBD",
+  "champion": null,
+  "awards": {
+    "winner": null,
+    "mvp": null,
+    "golden_boot": null,
+    "best_midfielder": null,
+    "best_defender": null,
+    "best_goalkeeper": null
+  },
   "left": [
     [
       {
         "seed1": 1,
-        "team1": "Team 1",
+        "team1": "Medioker FC",
         "seed2": 16,
-        "team2": "Team 16",
-        "winner": ""
+        "team2": "BK FC",
+        "winner": "BK FC"
       },
       {
         "seed1": 8,
-        "team1": "Team 8",
+        "team1": "War4Win",
         "seed2": 9,
-        "team2": "Team 9",
-        "winner": ""
-      },
-      {
-        "seed1": 4,
-        "team1": "Team 4",
-        "seed2": 13,
-        "team2": "Team 13",
-        "winner": ""
+        "team2": "Unos",
+        "winner": "War4Win"
       },
       {
         "seed1": 5,
-        "team1": "Team 5",
+        "team1": "Godplan",
         "seed2": 12,
-        "team2": "Team 12",
-        "winner": ""
-      }
-    ],
-    [
-      {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "team2": "Mustang",
+        "winner": "Mustang"
       },
       {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "seed1": 4,
+        "team1": "Agility FC Div1",
+        "seed2": 13,
+        "team2": "Allstar FC",
+        "winner": "Allstar FC"
       }
     ],
     [
       {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "team1": "BK FC",
+        "team2": "War4Win",
+        "winner": null
+      },
+      {
+        "team1": "Mustang",
+        "team2": "Allstar FC",
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
       }
     ]
   ],
   "right": [
     [
       {
-        "seed1": 2,
-        "team1": "Team 2",
-        "seed2": 15,
-        "team2": "Team 15",
-        "winner": ""
-      },
-      {
-        "seed1": 7,
-        "team1": "Team 7",
-        "seed2": 10,
-        "team2": "Team 10",
-        "winner": ""
-      },
-      {
         "seed1": 3,
-        "team1": "Team 3",
+        "team1": "The Brothers",
         "seed2": 14,
-        "team2": "Team 14",
-        "winner": ""
+        "team2": "Jagoan Abah",
+        "winner": "Jagoan Abah"
       },
       {
         "seed1": 6,
-        "team1": "Team 6",
+        "team1": "Invictus",
         "seed2": 11,
-        "team2": "Team 11",
-        "winner": ""
-      }
-    ],
-    [
-      {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "team2": "Vortex",
+        "winner": "Vortex"
       },
       {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "seed1": 7,
+        "team1": "Atlantic",
+        "seed2": 10,
+        "team2": "Atletico Club",
+        "winner": "Atlantic"
+      },
+      {
+        "seed1": 2,
+        "team1": "Agility FC Div2",
+        "seed2": 15,
+        "team2": "Helix",
+        "winner": "Agility FC Div2"
       }
     ],
     [
       {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "team1": "Jagoan Abah",
+        "team2": "Vortex",
+        "winner": null
+      },
+      {
+        "team1": "Atlantic",
+        "team2": "Agility FC Div2",
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
       }
     ]
-  ],
-  "awards": {
-    "winner": "TBD",
-    "mvp": "TBD",
-    "golden_boot": "TBD",
-    "best_midfielder": "TBD",
-    "best_defender": "TBD",
-    "best_goalkeeper": "TBD"
-  }
+  ]
 }
