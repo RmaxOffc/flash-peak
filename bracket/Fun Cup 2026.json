@@ -52,13 +52,13 @@
       {
         "team1": "Mustang",
         "team2": "Allstar FC",
-        "winner": null
+        "winner": "Allstar FC"
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "BK FC",
+        "team2": "Allstar FC",
         "winner": null
       }
     ]
@@ -99,18 +99,17 @@
         "team1": "Jagoan Abah",
         "team2": "Vortex",
         "winner": "Jagoan Abah"
-        
       },
       {
         "team1": "Atlantic",
         "team2": "Agility FC Div2",
-        "winner": null
+        "winner": "Agility FC Div2"
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "Jagoan Abah",
+        "team2": "Agility FC Div2",
         "winner": null
       }
     ]
