@@ -2,10 +2,10 @@
   "tournament": "FUN CUP 2026",
   "year": 2026,
   "date": "2026-07-24",
-  "status": "Ongoing",
-  "champion": null,
+  "status": "Completed",
+  "champion": "Allstar FC",
   "awards": {
-    "winner": null,
+    "winner": "Allstar FC",
     "mvp": null,
     "golden_boot": null,
     "best_midfielder": null,
@@ -59,7 +59,7 @@
       {
         "team1": "BK FC",
         "team2": "Allstar FC",
-        "winner": null
+        "winner": "Allstar FC"
       }
     ]
   ],
@@ -110,8 +110,13 @@
       {
         "team1": "Jagoan Abah",
         "team2": "Agility FC Div2",
-        "winner": null
+        "winner": "Agility FC Div2"
       }
     ]
-  ]
+  ],
+  "final": {
+    "team1": "Allstar FC",
+    "team2": "Agility FC Div2",
+    "winner": "Allstar FC"
+  }
 }
