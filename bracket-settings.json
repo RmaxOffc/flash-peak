@@ -1,116 +1,102 @@
 {
-  "tournament": "FUN CUP 2026",
-  "year": 2026,
-  "date": "2026-07-24",
-  "status": "Ongoing",
-  "champion": null,
+  "tournament": "TESTING",
+  "year": 2025,
+  "date": "2025-11-15",
+  "status": "Completed",
+  "champion": "Team Alpha",
   "awards": {
-    "winner": null,
-    "mvp": null,
-    "golden_boot": null,
-    "best_midfielder": null,
-    "best_defender": null,
-    "best_goalkeeper": null
+    "winner": "Team Alpha",
+    "mvp": "Player Rizky",
+    "golden_boot": "Player Rizky",
+    "best_midfielder": "Player Dedi",
+    "best_defender": "Player Sandi",
+    "best_goalkeeper": "Player Firman"
   },
   "left": [
     [
       {
         "seed1": 1,
-        "team1": "Medioker FC",
-        "seed2": 16,
-        "team2": "BK FC",
-        "winner": "BK FC"
+        "team1": "Team Alpha",
+        "seed2": 2,
+        "team2": "Team Bravo",
+        "winner": "Team Alpha"
       },
       {
-        "seed1": 8,
-        "team1": "War4Win",
-        "seed2": 9,
-        "team2": "Unos",
-        "winner": "War4Win"
+        "seed1": 3,
+        "team1": "Team Charlie",
+        "seed2": 4,
+        "team2": "Team Delta",
+        "winner": "Team Charlie"
       },
       {
         "seed1": 5,
-        "team1": "Godplan",
-        "seed2": 12,
-        "team2": "Mustang",
-        "winner": "Mustang"
-      },
-      {
-        "seed1": 4,
-        "team1": "Agility FC Div1",
-        "seed2": 13,
-        "team2": "Allstar FC",
-        "winner": "Allstar FC"
+        "team1": "Team Echo",
+        "seed2": 6,
+        "team2": "Team Foxtrot",
+        "winner": "Team Echo"
       }
     ],
     [
       {
-        "team1": "BK FC",
-        "team2": "War4Win",
-        "winner": null
+        "team1": "Team Alpha",
+        "team2": "Team Charlie",
+        "winner": "Team Alpha"
       },
       {
-        "team1": "Mustang",
-        "team2": "Allstar FC",
-        "winner": null
+        "team1": "Team Echo",
+        "team2": "Team Golf",
+        "winner": "Team Echo"
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
-        "winner": null
+        "team1": "Team Alpha",
+        "team2": "Team Echo",
+        "winner": "Team Alpha"
       }
     ]
   ],
   "right": [
     [
       {
-        "seed1": 3,
-        "team1": "The Brothers",
-        "seed2": 14,
-        "team2": "Jagoan Abah",
-        "winner": "Jagoan Abah"
+        "seed1": 8,
+        "team1": "Team Hotel",
+        "seed2": 9,
+        "team2": "Team India",
+        "winner": "Team Hotel"
       },
       {
-        "seed1": 6,
-        "team1": "Invictus",
+        "seed1": 10,
+        "team1": "Team Juliet",
         "seed2": 11,
-        "team2": "Vortex",
-        "winner": "Vortex"
+        "team2": "Team Kilo",
+        "winner": "Team Juliet"
       },
       {
-        "seed1": 7,
-        "team1": "Atlantic",
-        "seed2": 10,
-        "team2": "Atletico Club",
-        "winner": "Atlantic"
-      },
-      {
-        "seed1": 2,
-        "team1": "Agility FC Div2",
-        "seed2": 15,
-        "team2": "Helix",
-        "winner": "Agility FC Div2"
+        "seed1": 12,
+        "team1": "Team Lima",
+        "seed2": 13,
+        "team2": "Team Mike",
+        "winner": "Team Lima"
       }
     ],
     [
       {
-        "team1": "Jagoan Abah",
-        "team2": "Vortex",
-        "winner": null
+        "team1": "Team Hotel",
+        "team2": "Team Juliet",
+        "winner": "Team Hotel"
       },
       {
-        "team1": "Atlantic",
-        "team2": "Agility FC Div2",
-        "winner": null
+        "team1": "Team Lima",
+        "team2": "Team November",
+        "winner": "Team Lima"
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
-        "winner": null
+        "team1": "Team Hotel",
+        "team2": "Team Lima",
+        "winner": "Team Hotel"
       }
     ]
   ]
