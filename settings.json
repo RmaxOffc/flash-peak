@@ -1,6 +1,5 @@
 {
-  "registration_solo": false,
-  "registration_party": true,
+  "registration": true,
   "dashboard": true,
   "leaderboard": true,
   "matches": true,
