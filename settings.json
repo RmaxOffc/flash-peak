@@ -1,5 +1,5 @@
 {
-  "registration": true,
+  "registration": false,
   "dashboard": true,
   "leaderboard": true,
   "matches": true,
