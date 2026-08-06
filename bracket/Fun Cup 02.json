@@ -1,0 +1,155 @@
+{
+  "tournament": "FUN CUP 02",
+  "year": 2026,
+  "status": "Upcoming",
+  "champion": null,
+  "awards": {
+    "winner": null,
+    "mvp": null,
+    "golden_boot": null,
+    "best_midfielder": null,
+    "best_defender": null,
+    "best_goalkeeper": null
+  },
+  "rounds": {
+    "playoff": [
+      {
+        "seed1": 9,
+        "team1": "Agility Div 4",
+        "seed2": 24,
+        "team2": "Chaos",
+        "winner": null
+      },
+      {
+        "seed1": 10,
+        "team1": "Tyrant",
+        "seed2": 23,
+        "team2": "Storm Team",
+        "winner": null
+      },
+      {
+        "seed1": 11,
+        "team1": "Super Hari",
+        "seed2": 22,
+        "team2": "Anti Ego",
+        "winner": null
+      },
+      {
+        "seed1": 12,
+        "team1": "Gunners",
+        "seed2": 21,
+        "team2": "Borcello",
+        "winner": null
+      },
+      {
+        "seed1": 13,
+        "team1": "Luminous",
+        "seed2": 20,
+        "team2": "War 4 Win",
+        "winner": null
+      },
+      {
+        "seed1": 14,
+        "team1": "Agility Div 1",
+        "seed2": 19,
+        "team2": "Scammer",
+        "winner": null
+      },
+      {
+        "seed1": 15,
+        "team1": "Rafa Benitezo FC",
+        "seed2": 18,
+        "team2": "The Brothers Div 6",
+        "winner": null
+      },
+      {
+        "seed1": 16,
+        "team1": "The Brothers Div 2",
+        "seed2": 17,
+        "team2": "Ongkek Coffee Gank",
+        "winner": null
+      }
+    ],
+    "round_of_16": [
+      {
+        "team1": "Benedictio",
+        "team2": "Winner Match 8",
+        "winner": null
+      },
+      {
+        "team1": "Starhound Ssterion",
+        "team2": "Winner Match 7",
+        "winner": null
+      },
+      {
+        "team1": "Jarine",
+        "team2": "Winner Match 6",
+        "winner": null
+      },
+      {
+        "team1": "Oesna Grandfam",
+        "team2": "Winner Match 5",
+        "winner": null
+      },
+      {
+        "team1": "Remontada",
+        "team2": "Winner Match 4",
+        "winner": null
+      },
+      {
+        "team1": "Fheak Team",
+        "team2": "Winner Match 3",
+        "winner": null
+      },
+      {
+        "team1": "Agi Divisi 3",
+        "team2": "Winner Match 2",
+        "winner": null
+      },
+      {
+        "team1": "The Brothers Div 3",
+        "team2": "Winner Match 1",
+        "winner": null
+      }
+    ],
+    "quarterfinal": [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    "semifinal": [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    "final": {
+      "team1": null,
+      "team2": null,
+      "winner": null
+    }
+  }
+}
