@@ -1,5 +1,5 @@
 {
-  "tournament": "FUN CUP 02",
+  "tournament": "FUN CUP",
   "year": 2026,
   "status": "Upcoming",
   "champion": null,
@@ -11,118 +11,89 @@
     "best_defender": null,
     "best_goalkeeper": null
   },
-  "rounds": {
-    "playoff": [
+  "left": [
+    [
+      {
+        "seed1": 1,
+        "team1": "Benedictio",
+        "seed2": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "seed1": 16,
+        "team1": "Starhound Ssterion",
+        "seed2": 17,
+        "team2": "Ongkek Coffee Gank",
+        "winner": null
+      },
       {
         "seed1": 9,
-        "team1": "Agility Div 4",
+        "team1": "Jarine",
         "seed2": 24,
         "team2": "Chaos",
         "winner": null
       },
       {
-        "seed1": 10,
-        "team1": "Tyrant",
-        "seed2": 23,
-        "team2": "Storm Team",
+        "seed1": 8,
+        "team1": "Oesna Grandfam",
+        "seed2": 25,
+        "team2": "The Brothers Div 3",
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
         "winner": null
       },
       {
-        "seed1": 11,
-        "team1": "Super Hari",
-        "seed2": 22,
-        "team2": "Anti Ego",
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ]
+  ],
+  "right": [
+    [
+      {
+        "seed1": 5,
+        "team1": "Remontada",
+        "seed2": 28,
+        "team2": "Agi Divisi 3",
         "winner": null
       },
       {
         "seed1": 12,
-        "team1": "Gunners",
+        "team1": "Fheak Team",
         "seed2": 21,
-        "team2": "Borcello",
+        "team2": "Fheak Team",
         "winner": null
       },
       {
         "seed1": 13,
-        "team1": "Luminous",
+        "team1": "Gunners",
         "seed2": 20,
         "team2": "War 4 Win",
         "winner": null
       },
       {
-        "seed1": 14,
-        "team1": "Agility Div 1",
-        "seed2": 19,
-        "team2": "Scammer",
-        "winner": null
-      },
-      {
-        "seed1": 15,
-        "team1": "Rafa Benitezo FC",
-        "seed2": 18,
-        "team2": "The Brothers Div 6",
-        "winner": null
-      },
-      {
-        "seed1": 16,
-        "team1": "The Brothers Div 2",
-        "seed2": 17,
-        "team2": "Ongkek Coffee Gank",
+        "seed1": 4,
+        "team1": "Agility Div 4",
+        "seed2": 29,
+        "team2": "The Brothers Div 2",
         "winner": null
       }
     ],
-    "round_of_16": [
-      {
-        "team1": "Benedictio",
-        "team2": "Winner Match 8",
-        "winner": null
-      },
-      {
-        "team1": "Starhound Ssterion",
-        "team2": "Winner Match 7",
-        "winner": null
-      },
-      {
-        "team1": "Jarine",
-        "team2": "Winner Match 6",
-        "winner": null
-      },
-      {
-        "team1": "Oesna Grandfam",
-        "team2": "Winner Match 5",
-        "winner": null
-      },
-      {
-        "team1": "Remontada",
-        "team2": "Winner Match 4",
-        "winner": null
-      },
-      {
-        "team1": "Fheak Team",
-        "team2": "Winner Match 3",
-        "winner": null
-      },
-      {
-        "team1": "Agi Divisi 3",
-        "team2": "Winner Match 2",
-        "winner": null
-      },
-      {
-        "team1": "The Brothers Div 3",
-        "team2": "Winner Match 1",
-        "winner": null
-      }
-    ],
-    "quarterfinal": [
-      {
-        "team1": null,
-        "team2": null,
-        "winner": null
-      },
-      {
-        "team1": null,
-        "team2": null,
-        "winner": null
-      },
+    [
       {
         "team1": null,
         "team2": null,
@@ -134,22 +105,17 @@
         "winner": null
       }
     ],
-    "semifinal": [
-      {
-        "team1": null,
-        "team2": null,
-        "winner": null
-      },
+    [
       {
         "team1": null,
         "team2": null,
         "winner": null
       }
-    ],
-    "final": {
-      "team1": null,
-      "team2": null,
-      "winner": null
-    }
+    ]
+  ],
+  "final": {
+    "team1": null,
+    "team2": null,
+    "winner": null
   }
 }
