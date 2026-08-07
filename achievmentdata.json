@@ -1,34 +1,53 @@
-// achievmentdata.json
 {
   "achievements": [
     {
       "id": "ach_001",
-      "uid": "andrew123",
+      "uid": "123456789",
       "for": "Andrew",
       "name": "Top Scorer",
-      "description": "Mencetak gol terbanyak di turnamen",
+      "description": "Mencetak gol terbanyak di turnamen dengan 12 gol",
       "icon": "⚽",
-      "image": "https://example.com/badge1.png",
+      "image": "https://example.com/badge_golden_boot.png",
       "date": "2026-08-07"
     },
     {
       "id": "ach_002",
-      "uid": "andrew123",
+      "uid": "123456789",
       "for": "Andrew",
       "name": "MVP Tournament",
-      "description": "Pemain terbaik sepanjang turnamen",
+      "description": "Pemain terbaik sepanjang turnamen dengan rating 9.5",
       "icon": "⭐",
-      "image": "https://example.com/badge2.png",
+      "image": "https://example.com/badge_mvp.png",
       "date": "2026-08-07"
     },
     {
       "id": "ach_003",
-      "uid": "caroline456",
+      "uid": "987654321",
       "for": "Caroline",
       "name": "Best Assists",
-      "description": "Assist terbanyak di turnamen",
+      "description": "Assist terbanyak di turnamen dengan 8 assist",
       "icon": "🎯",
-      "image": "https://example.com/badge3.png",
+      "image": "https://example.com/badge_assist.png",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "ach_004",
+      "uid": "987654321",
+      "for": "Caroline",
+      "name": "Best Midfielder",
+      "description": "Midfielder terbaik dengan 15 key passes",
+      "icon": "🎯",
+      "image": "https://example.com/badge_midfielder.png",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "ach_005",
+      "uid": "555555555",
+      "for": "Budi",
+      "name": "Best Defender",
+      "description": "Defender terbaik dengan 25 tackle sukses",
+      "icon": "🛡️",
+      "image": "https://example.com/badge_defender.png",
       "date": "2026-08-07"
     }
   ]
