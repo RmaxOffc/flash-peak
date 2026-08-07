@@ -1,0 +1,17 @@
+// playerdata.json
+{
+  "users": [
+    {
+      "nickname": "Andrew",
+      "uid": "andrew123",
+      "password": "1a2b3c4d5e6f",
+      "registeredAt": "2026-08-07T10:00:00.000Z"
+    },
+    {
+      "nickname": "Caroline",
+      "uid": "caroline456",
+      "password": "2b3c4d5e6f7g",
+      "registeredAt": "2026-08-07T11:00:00.000Z"
+    }
+  ]
+}
