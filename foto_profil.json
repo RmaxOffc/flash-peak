@@ -1,7 +1,7 @@
-// foto_profil.json
 {
   "photos": {
-    "andrew123": "https://example.com/andrew.jpg",
-    "caroline456": "https://example.com/caroline.jpg"
+    "123456789": "https://example.com/andrew.jpg",
+    "987654321": "https://example.com/caroline.jpg",
+    "555555555": "https://example.com/budi.jpg"
   }
 }
