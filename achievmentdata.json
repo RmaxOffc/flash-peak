@@ -49,6 +49,16 @@
       "icon": "🛡️",
       "image": "https://example.com/badge_defender.png",
       "date": "2026-08-07"
+    },
+{
+      "id": "TutuisReal",
+      "uid": "10007726",
+      "for": "Tutu",
+      "name": "TOP GOL S1",
+      "description": "Gol terbanyak sepanjang Seadon 1",
+      "icon": "🛡️",
+      "image": "https://files.catbox.moe/1k0g60.png",
+      "date": "2026-08-07"
     }
   ]
 }
