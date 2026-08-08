@@ -1,9 +1,7 @@
 {
   "tournament": "FUN CUP 02",
   "year": 2026,
-  "status": "Quarterfinal",
-  "round": "Quarterfinal",
-  "format": "BO3",
+  "status": "Upcoming",
   "champion": null,
   "awards": {
     "winner": null,
@@ -13,191 +11,108 @@
     "best_defender": null,
     "best_goalkeeper": null
   },
-  "qualified_teams": [
-    {
-      "seed": 2,
-      "team": "Starhound Asterion"
-    },
-    {
-      "seed": 4,
-      "team": "Oesna Grandfam"
-    },
-    {
-      "seed": 5,
-      "team": "Remontada"
-    },
-    {
-      "seed": 6,
-      "team": "Fheak Team"
-    },
-    {
-      "seed": 7,
-      "team": "Agility Divisi 3"
-    },
-    {
-      "seed": 9,
-      "team": "Agility Div 4"
-    },
-    {
-      "seed": 12,
-      "team": "Gunners"
-    },
-    {
-      "seed": 14,
-      "team": "Agility Divisi 1"
-    },
-    {
-      "seed": 16,
-      "team": "The Brothers Div 2"
-    },
-    {
-      "seed": 18,
-      "team": "The Brothers Div 6"
-    },
-    {
-      "seed": 19,
-      "team": "Scammer"
-    },
-    {
-      "seed": 22,
-      "team": "Anti Ego"
-    },
-    {
-      "seed": 24,
-      "team": "Chaos"
-    }
-  ],
-  "bracket": {
-    "left": [
+  "left": [
+    [
       {
-        "seed": 2,
-        "team": "Starhound Asterion",
-        "opponent": 4,
-        "opponentTeam": "Oesna Grandfam",
-        "score": null,
-        "winner": null,
-        "record": null
+        "seed1": 2,
+        "team1": "Starhound Asterion",
+        "seed2": 4,
+        "team2": "Oesna Grandfam",
+        "winner": null
       },
       {
-        "seed": 4,
-        "team": "Oesna Grandfam",
-        "opponent": 2,
-        "opponentTeam": "Starhound Asterion",
-        "score": null,
-        "winner": null,
-        "record": null
+        "seed1": 5,
+        "team1": "Remontada",
+        "seed2": 6,
+        "team2": "Fheak Team",
+        "winner": null
       },
       {
-        "seed": 5,
-        "team": "Remontada",
-        "opponent": 6,
-        "opponentTeam": "Fheak Team",
-        "score": null,
-        "winner": null,
-        "record": null
+        "seed1": 7,
+        "team1": "Agility Divisi 3",
+        "seed2": 9,
+        "team2": "Agility Div 4",
+        "winner": null
       },
       {
-        "seed": 6,
-        "team": "Fheak Team",
-        "opponent": 5,
-        "opponentTeam": "Remontada",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 7,
-        "team": "Agility Divisi 3",
-        "opponent": 9,
-        "opponentTeam": "Agility Div 4",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 9,
-        "team": "Agility Div 4",
-        "opponent": 7,
-        "opponentTeam": "Agility Divisi 3",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 12,
-        "team": "Gunners",
-        "opponent": null,
-        "opponentTeam": null,
-        "score": null,
-        "winner": null,
-        "record": null,
-        "bye": true
+        "seed1": 12,
+        "team1": "Gunners",
+        "seed2": null,
+        "team2": null,
+        "winner": null
       }
     ],
-    "right": [
+    [
       {
-        "seed": 14,
-        "team": "Agility Divisi 1",
-        "opponent": 16,
-        "opponentTeam": "The Brothers Div 2",
-        "score": null,
-        "winner": null,
-        "record": null
+        "team1": null,
+        "team2": null,
+        "winner": null
       },
       {
-        "seed": 16,
-        "team": "The Brothers Div 2",
-        "opponent": 14,
-        "opponentTeam": "Agility Divisi 1",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    [
       {
-        "seed": 18,
-        "team": "The Brothers Div 6",
-        "opponent": 19,
-        "opponentTeam": "Scammer",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 19,
-        "team": "Scammer",
-        "opponent": 18,
-        "opponentTeam": "The Brothers Div 6",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 22,
-        "team": "Anti Ego",
-        "opponent": 24,
-        "opponentTeam": "Chaos",
-        "score": null,
-        "winner": null,
-        "record": null
-      },
-      {
-        "seed": 24,
-        "team": "Chaos",
-        "opponent": 22,
-        "opponentTeam": "Anti Ego",
-        "score": null,
-        "winner": null,
-        "record": null
+        "team1": null,
+        "team2": null,
+        "winner": null
       }
     ]
-  },
-  "rules": {
-    "format": "BO3",
-    "result_required": true,
-    "record_required": true,
-    "registered_roster_required": true,
-    "unauthorized_player_substitution": "DISQUALIFICATION"
-  },
+  ],
+  "right": [
+    [
+      {
+        "seed1": 14,
+        "team1": "Agility Divisi 1",
+        "seed2": 16,
+        "team2": "The Brothers Div 2",
+        "winner": null
+      },
+      {
+        "seed1": 18,
+        "team1": "The Brothers Div 6",
+        "seed2": 19,
+        "team2": "Scammer",
+        "winner": null
+      },
+      {
+        "seed1": 22,
+        "team1": "Anti Ego",
+        "seed2": 24,
+        "team2": "Chaos",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": null,
+        "seed2": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      },
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": null,
+        "team2": null,
+        "winner": null
+      }
+    ]
+  ],
   "final": {
     "team1": null,
     "team2": null,
