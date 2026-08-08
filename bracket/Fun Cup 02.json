@@ -16,49 +16,80 @@
     [
       {
         "seed1": 1,
-        "team1": "Benedictio",
-        "seed2": 2,
-        "team2": "Starhound Asterion",
+        "team1": "Starhound Asterion",
+        "seed2": 16,
+        "team2": "Benedictio",
         "winner": "Starhound Asterion"
       },
       {
-        "seed1": 16,
-        "team1": "The Brothers Div 2",
-        "seed2": 15,
-        "team2": "Rafa Benitezo FC",
-        "winner": "The Brothers Div 2"
+        "seed1": 8,
+        "team1": "Jarine",
+        "seed2": 9,
+        "team2": "Oesna Grandfam",
+        "winner": "Oesna Grandfam"
       },
       {
-        "seed1": 9,
+        "seed1": 5,
+        "team1": "Remontada",
+        "seed2": 12,
+        "team2": "Fheak Team",
+        "winner": "Fheak Team"
+      },
+      {
+        "seed1": 4,
+        "team1": "Agi Divisi 3",
+        "seed2": 13,
+        "team2": "The Brothers Div 3",
+        "winner": "Agi Divisi 3"
+      },
+      {
+        "seed1": 6,
         "team1": "Agility Div 4",
-        "seed2": 10,
+        "seed2": 11,
         "team2": "Tyrant",
         "winner": "Agility Div 4"
       },
       {
-        "seed1": 8,
-        "team1": "The Brothers Div 3",
-        "seed2": 7,
-        "team2": "Agility Divisi 3",
-        "winner": "Agility Divisi 3"
+        "seed1": 3,
+        "team1": "Super Hari",
+        "seed2": 14,
+        "team2": "Gunners",
+        "winner": "Gunners"
       }
     ],
     [
       {
         "team1": "Starhound Asterion",
-        "team2": "The Brothers Div 2",
+        "team2": "Oesna Grandfam",
+        "winner": null
+      },
+      {
+        "team1": "Fheak Team",
+        "team2": "Agi Divisi 3",
         "winner": null
       },
       {
         "team1": "Agility Div 4",
-        "team2": "Agility Divisi 3",
+        "team2": "Gunners",
         "winner": null
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "TBD",
+        "team2": "TBD",
+        "winner": null
+      },
+      {
+        "team1": "TBD",
+        "team2": "TBD",
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": "TBD",
+        "team2": "TBD",
         "winner": null
       }
     ]
@@ -66,57 +97,88 @@
   "right": [
     [
       {
+        "seed1": 2,
+        "team1": "Luminous",
+        "seed2": 15,
+        "team2": "Agility Div 1",
+        "winner": "Agility Div 1"
+      },
+      {
+        "seed1": 7,
+        "team1": "Rafa Benitezo FC",
+        "seed2": 10,
+        "team2": "The Brothers Div 2",
+        "winner": "The Brothers Div 2"
+      },
+      {
         "seed1": 3,
-        "team1": "Jarine",
-        "seed2": 4,
-        "team2": "Oesna Grandfam",
-        "winner": "Oesna Grandfam"
+        "team1": "Ongkek Coffee Gank",
+        "seed2": 14,
+        "team2": "The Brothers Div 6",
+        "winner": "The Brothers Div 6"
+      },
+      {
+        "seed1": 6,
+        "team1": "Scammer",
+        "seed2": 11,
+        "team2": "War 4 Win",
+        "winner": "Scammer"
       },
       {
         "seed1": 5,
-        "team1": "Remontada",
-        "seed2": 6,
-        "team2": "Fheak Team",
-        "winner": "Remontada"
+        "team1": "Borcello",
+        "seed2": 12,
+        "team2": "Anti Ego",
+        "winner": "Anti Ego"
       },
       {
-        "seed1": 13,
-        "team1": "Luminous",
-        "seed2": 14,
-        "team2": "Agility Divisi 1",
-        "winner": "Agility Divisi 1"
-      },
-      {
-        "seed1": 17,
-        "team1": "Ongkek Coffee Gank",
-        "seed2": 18,
-        "team2": "The Brothers Div 6",
-        "winner": "The Brothers Div 6"
+        "seed1": 4,
+        "team1": "Storm Team",
+        "seed2": 13,
+        "team2": "Chaos",
+        "winner": "Chaos"
       }
     ],
     [
       {
-        "team1": "Oesna Grandfam",
-        "team2": "Remontada",
+        "team1": "Agility Div 1",
+        "team2": "The Brothers Div 2",
         "winner": null
       },
       {
-        "team1": "Agility Divisi 1",
-        "team2": "The Brothers Div 6",
+        "team1": "The Brothers Div 6",
+        "team2": "Scammer",
+        "winner": null
+      },
+      {
+        "team1": "Anti Ego",
+        "team2": "Chaos",
         "winner": null
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "TBD",
+        "team2": "TBD",
+        "winner": null
+      },
+      {
+        "team1": "TBD",
+        "team2": "TBD",
+        "winner": null
+      }
+    ],
+    [
+      {
+        "team1": "TBD",
+        "team2": "TBD",
         "winner": null
       }
     ]
   ],
   "final": {
-    "team1": null,
-    "team2": null,
+    "team1": "TBD",
+    "team2": "TBD",
     "winner": null
   }
 }
