@@ -1,8 +1,71 @@
 {
+  "_comment": "DB foto profil & custom border. Taruh di folder yang sama dengan playerdata.json di GitHub repo.",
+
   "photos": {
-    "123456789": "https://example.com/andrew.jpg",
-    "987654321": "https://example.com/caroline.jpg",
-    "555555555": "https://example.com/budi.jpg",
+    "123456789": "https://i.imgur.com/contoh1.jpg",
+    "987654321": "https://i.imgur.com/contoh2.jpg",
+    "555555555": "https://i.imgur.com/contoh3.jpg",
+    "111111111": "https://i.imgur.com/contoh4.jpg",
+    "222222222": "https://i.imgur.com/contoh5.jpg",
+    "333333333": "https://i.imgur.com/contoh6.jpg",
     "10007726": "https://files.catbox.moe/8nvzlu.png"
+  },
+
+  "borders": {
+
+    "123456789": {
+      "_name": "Andrew",
+      "type": "gradient",
+      "colors": ["#D63447", "#F59E0B"],
+      "animated": true,
+      "width": 3
+    },
+
+    "987654321": {
+      "_name": "Caroline",
+      "type": "rainbow",
+      "animated": true,
+      "width": 4
+    },
+
+    "555555555": {
+      "_name": "Budi",
+      "type": "glow",
+      "color": "#22C55E",
+      "animated": true,
+      "width": 3
+    },
+
+    "111111111": {
+      "_name": "Dani",
+      "type": "solid",
+      "color": "#3B82F6",
+      "animated": false,
+      "width": 2
+    },
+
+    "222222222": {
+      "_name": "Eka",
+      "type": "pulse",
+      "color": "#8B5CF6",
+      "animated": true,
+      "width": 3
+    },
+
+    "333333333": {
+      "_name": "Farid",
+      "type": "duo",
+      "colors": ["#EC4899", "#F59E0B"],
+      "animated": true,
+      "width": 4
+    },
+
+    "10007726": {
+      "_name": "Farid",
+      "type": "duo",
+      "colors": ["#EC4899", "#F59E0B"],
+      "animated": true,
+      "width": 4
+    }
   }
 }
