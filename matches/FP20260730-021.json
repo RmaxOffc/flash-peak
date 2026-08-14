@@ -18,4 +18,4 @@
       { "name": "Minjau", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
       { "name": "PesutBalap", "team": "right", "goal": 2, "assist": 0, "pass": 2, "tackle": 1, "block": 0 }
     ]
-  },
+  }
