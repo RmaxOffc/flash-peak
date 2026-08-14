@@ -1,0 +1,21 @@
+{
+    "match_id": "FP20260724-007",
+    "date": "2026-07-24",
+    "time": "15:00",
+    "round": "Semifinal",
+    "left_team_name": "Allstars",
+    "right_team_name": "Agility FC Div2",
+    "score": { "left_team": 4, "right_team": 2 },
+    "winner": "left_team",
+    "mvp": "Alzel",
+    "players": [
+      { "name": "Alzel", "team": "left", "goal": 1, "assist": 3, "pass": 7, "tackle": 4, "block": 0 },
+      { "name": "SINN2000", "team": "left", "goal": 1, "assist": 0, "pass": 11, "tackle": 9, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 7, "block": 0 },
+      { "name": "C.RONALDO", "team": "left", "goal": 2, "assist": 0, "pass": 7, "tackle": 2, "block": 0 },
+      { "name": "AGI.Madee", "team": "right", "goal": 0, "assist": 0, "pass": 7, "tackle": 13, "block": 0 },
+      { "name": "RHYNEX", "team": "right", "goal": 2, "assist": 0, "pass": 10, "tackle": 3, "block": 0 },
+      { "name": "Xiaoyuu", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
+      { "name": "Zouu", "team": "right", "goal": 0, "assist": 0, "pass": 12, "tackle": 2, "block": 0 }
+    ]
+  }
