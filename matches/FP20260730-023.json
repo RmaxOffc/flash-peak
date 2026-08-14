@@ -1,0 +1,21 @@
+{
+    "match_id": "FP20260723-004",
+    "date": "2026-07-23",
+    "time": "19:00",
+    "round": "Quarterfinal",
+    "left_team_name": "Agility FC Div2",
+    "right_team_name": "Jagoan Abah",
+    "score": { "left_team": 3, "right_team": 4 },
+    "winner": "right_team",
+    "mvp": "RRQ.ekoEIEI",
+    "players": [
+      { "name": "RHYNEX", "team": "left", "goal": 3, "assist": 0, "pass": 6, "tackle": 3, "block": 0 },
+      { "name": "Zouu", "team": "left", "goal": 0, "assist": 2, "pass": 14, "tackle": 0, "block": 0 },
+      { "name": "paldas", "team": "left", "goal": 0, "assist": 0, "pass": 16, "tackle": 4, "block": 0 },
+      { "name": "Xiaoyuu", "team": "left", "goal": 0, "assist": 0, "pass": 8, "tackle": 3, "block": 0 },
+      { "name": "RRQ.ekoEIEI", "team": "right", "goal": 4, "assist": 0, "pass": 3, "tackle": 4, "block": 0 },
+      { "name": "Kavv-", "team": "right", "goal": 0, "assist": 1, "pass": 6, "tackle": 5, "block": 0 },
+      { "name": "GemPiw", "team": "right", "goal": 0, "assist": 0, "pass": 2, "tackle": 13, "block": 0 },
+      { "name": "Luridu3", "team": "right", "goal": 0, "assist": 0, "pass": 0, "tackle": 3, "block": 0 }
+    ]
+  }
