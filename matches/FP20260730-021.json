@@ -1,0 +1,21 @@
+ {
+    "match_id": "FP20260723-002",
+    "date": "2026-07-23",
+    "time": "15:00",
+    "round": "Quarterfinal",
+    "left_team_name": "Allstar",
+    "right_team_name": "Mustang",
+    "score": { "left_team": 4, "right_team": 3 },
+    "winner": "left_team",
+    "mvp": "Alzel",
+    "players": [
+      { "name": "Alzel", "team": "left", "goal": 1, "assist": 2, "pass": 10, "tackle": 6, "block": 0 },
+      { "name": "SINN2000", "team": "left", "goal": 0, "assist": 1, "pass": 13, "tackle": 8, "block": 0 },
+      { "name": "C.RONALD000", "team": "left", "goal": 3, "assist": 0, "pass": 5, "tackle": 2, "block": 0 },
+      { "name": "Lyriq", "team": "left", "goal": 0, "assist": 0, "pass": 5, "tackle": 3, "block": 0 },
+      { "name": "RiquiPuig", "team": "right", "goal": 1, "assist": 1, "pass": 7, "tackle": 6, "block": 0 },
+      { "name": "Prabowo", "team": "right", "goal": 0, "assist": 0, "pass": 3, "tackle": 8, "block": 0 },
+      { "name": "Minjau", "team": "right", "goal": 0, "assist": 1, "pass": 8, "tackle": 5, "block": 0 },
+      { "name": "PesutBalap", "team": "right", "goal": 2, "assist": 0, "pass": 2, "tackle": 1, "block": 0 }
+    ]
+  },
