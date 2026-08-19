@@ -1,0 +1,17 @@
+{
+  "matches": [
+    {
+      "match_id": "M2-0001",
+      "date": "2026-08-15",
+      "left_team_name": "Team Alpha",
+      "right_team_name": "Team Beta",
+      "winner": "left_team",
+      "score": { "left_team": 3, "right_team": 1 },
+      "mvp": "TutulsReal",
+      "players": [
+        { "uid": "10007726", "name": "TutulsReal", "team": "left", "goal": 99, "assist": 99, "pass": 88, "tackle": 99, "block": 99 },
+        { "uid": "998877", "name": "Andrew", "team": "right", "goal": 1, "assist": 0, "pass": 8, "tackle": 2, "block": 0 }
+      ]
+    }
+  ]
+}
