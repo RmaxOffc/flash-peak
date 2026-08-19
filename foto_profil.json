@@ -1,5 +1,5 @@
 {
-  "_comment": "DB foto profil & custom border. Taruh di folder yang sama dengan playerdata.json di GitHub repo.",
+  "_comment": "DB foto profil & custom border PREMIUM - gaya Mobile Legends",
 
   "photos": {
     "123456789": "https://i.imgur.com/contoh1.jpg",
@@ -15,57 +15,77 @@
 
     "123456789": {
       "_name": "Andrew",
-      "type": "gradient",
-      "colors": ["#D63447", "#F59E0B"],
+      "type": "mythic_glow",
+      "colors": ["#FFD700", "#FF6B00", "#FFD700"],
       "animated": true,
-      "width": 3
+      "width": 5,
+      "glow_intensity": "high",
+      "sparkle": true
     },
 
     "987654321": {
       "_name": "Caroline",
-      "type": "rainbow",
+      "type": "legendary_dual",
+      "colors": ["#00D4FF", "#7B2FBE", "#FF006E"],
       "animated": true,
-      "width": 4
+      "width": 6,
+      "glow_intensity": "extreme",
+      "sparkle": true
     },
 
     "555555555": {
       "_name": "Budi",
-      "type": "glow",
-      "color": "#22C55E",
+      "type": "epic_crown",
+      "colors": ["#F7971E", "#FFD200"],
       "animated": true,
-      "width": 3
+      "width": 5,
+      "glow_intensity": "high",
+      "sparkle": true,
+      "crown_effect": true
     },
 
     "111111111": {
       "_name": "Dani",
-      "type": "solid",
-      "color": "#3B82F6",
-      "animated": false,
-      "width": 2
+      "type": "celestial",
+      "colors": ["#4A00E0", "#8E2DE2"],
+      "animated": true,
+      "width": 4,
+      "glow_intensity": "medium",
+      "sparkle": false
     },
 
     "222222222": {
       "_name": "Eka",
-      "type": "pulse",
-      "color": "#8B5CF6",
+      "type": "royal_gold",
+      "colors": ["#BF953F", "#FCF6B6", "#B38728", "#FBF5B7"],
       "animated": true,
-      "width": 3
+      "width": 6,
+      "glow_intensity": "extreme",
+      "sparkle": true,
+      "diamond_effect": true
     },
 
     "333333333": {
       "_name": "Farid",
-      "type": "duo",
-      "colors": ["#EC4899", "#F59E0B"],
+      "type": "shadow_emperor",
+      "colors": ["#0F0C29", "#302B63", "#24243E"],
+      "accent": "#FFD700",
       "animated": true,
-      "width": 4
+      "width": 5,
+      "glow_intensity": "medium",
+      "sparkle": true,
+      "dark_mode": true
     },
 
     "10007726": {
       "_name": "Farid",
-      "type": "duo",
-      "colors": ["#EC4899", "#F59E0B"],
+      "type": "supreme_conqueror",
+      "colors": ["#FF0080", "#FF8C00", "#40E0D0"],
       "animated": true,
-      "width": 4
+      "width": 7,
+      "glow_intensity": "extreme",
+      "sparkle": true,
+      "premium_effect": true
     }
   }
 }
