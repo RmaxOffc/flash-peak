@@ -2,11 +2,11 @@
   "tournament": "FUN CUP 02",
   "year": 2026,
   "date": "2026-08-08",
-  "status": "Upcoming",
-  "champion": null,
+  "status": "Completed",
+  "champion": "The Brothers",
   "awards": {
-    "winner": null,
-    "mvp": null,
+    "winner": "The Brothers",
+    "mvp": "The Brothers",
     "golden_boot": null,
     "best_midfielder": null,
     "best_defender": null,
@@ -61,36 +61,36 @@
       {
         "team1": "Starhound Asterion",
         "team2": "Oesna Grandfam",
-        "winner": null
+        "winner": "Starhound Asterion"
       },
       {
         "team1": "Fheak Team",
         "team2": "Agi Divisi 3",
-        "winner": null
+        "winner": "Agi Divisi 3"
       },
       {
         "team1": "Agility Div 4",
         "team2": "Gunners",
-        "winner": null
+        "winner": "Agility Div 4"
       }
     ],
     [
       {
-        "team1": "TBD",
-        "team2": "TBD",
-        "winner": null
+        "team1": "Starhound Asterion",
+        "team2": "Agi Divisi 3",
+        "winner": "Agi Divisi 4"
       },
       {
-        "team1": "TBD",
+        "team1": "Agility Div 4",
         "team2": "TBD",
-        "winner": null
+        "winner": "Agi Divisi 4"
       }
     ],
     [
       {
-        "team1": "TBD",
+        "team1": "Agi Divisi 4",
         "team2": "TBD",
-        "winner": null
+        "winner": "Agi Divisi 4"
       }
     ]
   ],
@@ -143,42 +143,42 @@
       {
         "team1": "Agility Div 1",
         "team2": "The Brothers Div 2",
-        "winner": null
+        "winner": "The Brothers Div 2"
       },
       {
         "team1": "The Brothers Div 6",
         "team2": "Scammer",
-        "winner": null
+        "winner": "The Brothers Div 6"
       },
       {
         "team1": "Anti Ego",
         "team2": "Chaos",
-        "winner": null
+        "winner": "Chaos"
       }
     ],
     [
       {
-        "team1": "TBD",
-        "team2": "TBD",
-        "winner": null
+        "team1": "The Brothers Div 2",
+        "team2": "The Brothers Div 6",
+        "winner": "The Brothers"
       },
       {
-        "team1": "TBD",
+        "team1": "Chaos",
         "team2": "TBD",
-        "winner": null
+        "winner": "Chaos"
       }
     ],
     [
       {
-        "team1": "TBD",
-        "team2": "TBD",
-        "winner": null
+        "team1": "The Brothers",
+        "team2": "Chaos",
+        "winner": "The Brothers"
       }
     ]
   ],
   "final": {
-    "team1": "TBD",
-    "team2": "TBD",
-    "winner": null
+    "team1": "Agi Divisi 4",
+    "team2": "The Brothers",
+    "winner": "The Brothers"
   }
 }
