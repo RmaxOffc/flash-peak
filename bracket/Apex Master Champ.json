@@ -15,81 +15,81 @@
   "left": [
     [
       {
-        "seed1": 1,
+        "seed1": null,
+        "team1": "THE BROTHERS GAMBIT",
+        "seed2": null,
+        "team2": "AGILITY SHINIGAMI",
+        "winner": null
+      },
+      {
+        "seed1": null,
         "team1": "MEDIOKER FC",
-        "seed2": 32,
-        "team2": "Anthingi mokohengo",
+        "seed2": null,
+        "team2": "THE BROTHERS ACESA",
         "winner": null
       },
       {
-        "seed1": 16,
-        "team1": "NEXUS",
-        "seed2": 17,
-        "team2": "AGILITY NIGHTFALL",
+        "seed1": null,
+        "team1": "AGILITY ETHEREAL",
+        "seed2": null,
+        "team2": "7SINS BLUELOCK",
         "winner": null
       },
       {
-        "seed1": 8,
-        "team1": "HELIX",
-        "seed2": 25,
+        "seed1": null,
+        "team1": "THE BROTHERS VALTUS",
+        "seed2": null,
+        "team2": "S ASTERION HERO",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "THE BROTHERS INVICTUS",
+        "seed2": null,
         "team2": "ASTRA LUMINA",
         "winner": null
       },
       {
-        "seed1": 9,
-        "team1": "THE BROTHERS CONQUEROR",
-        "seed2": 24,
-        "team2": "ToT ESPORT",
-        "winner": null
-      },
-      {
-        "seed1": 4,
-        "team1": "S ASTERION ASCENDANT",
-        "seed2": 29,
-        "team2": "THE BROTHERS INVICTUS",
-        "winner": null
-      },
-      {
-        "seed1": 13,
-        "team1": "7SINS BLUELOCK",
-        "seed2": 20,
-        "team2": "SIE KORPORAT",
-        "winner": null
-      },
-      {
-        "seed1": 5,
-        "team1": "ALWAYS COMPETE",
-        "seed2": 28,
-        "team2": "THE BROTHERS ALPHA",
-        "winner": null
-      },
-      {
-        "seed1": 12,
+        "seed1": null,
         "team1": "THE BROTHERS 4K",
-        "seed2": 21,
-        "team2": "SIKIK AAA",
+        "seed2": null,
+        "team2": "ALWAYS COMPETE",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "THE BROTHERS CONQUEROR",
+        "seed2": null,
+        "team2": "SMK BUDINIAH",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "THE BROTHERS ALPHA",
+        "seed2": null,
+        "team2": "AGILITY NIGHTFALL",
         "winner": null
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "THE BROTHERS GAMBIT",
+        "team2": "THE BROTHERS ACESA",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "AGILITY ETHEREAL",
+        "team2": "S ASTERION ZERO",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "THE BROTHERS INVICTUS",
+        "team2": "THE BROTHERS 4K",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "THE BROTHERS CONQUEROR",
+        "team2": "THE BROTHERS ALPHA",
         "winner": null
       }
     ],
@@ -116,81 +116,81 @@
   "right": [
     [
       {
-        "seed1": 2,
-        "team1": "THE BROTHERS GAMBIT",
-        "seed2": 31,
+        "seed1": null,
+        "team1": "ToT ESPORT",
+        "seed2": null,
+        "team2": "AGILITY NOVA",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "S ASTERION ASCENDANT",
+        "seed2": null,
+        "team2": "HELIX",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "NEXUS",
+        "seed2": null,
+        "team2": "PABLO GANG",
+        "winner": null
+      },
+      {
+        "seed1": null,
+        "team1": "MATAMUDA FC",
+        "seed2": null,
         "team2": "NEO",
         "winner": null
       },
       {
-        "seed1": 15,
-        "team1": "ARES LEGION",
-        "seed2": 18,
-        "team2": "MATAMUDA FC",
+        "seed1": null,
+        "team1": "SIKIK AAA",
+        "seed2": null,
+        "team2": "ARES LEGION",
         "winner": null
       },
       {
-        "seed1": 7,
-        "team1": "S ASTERION SUPREMACY",
-        "seed2": 26,
-        "team2": "THE BROTHERS IMPROVE",
+        "seed1": null,
+        "team1": "THE BROTHERS IMPROVE",
+        "seed2": null,
+        "team2": "Anthingi mokohengo",
         "winner": null
       },
       {
-        "seed1": 10,
-        "team1": "AGILITY NOVA",
-        "seed2": 23,
-        "team2": "THE BRITHERS ASCESA",
+        "seed1": null,
+        "team1": "NETWORK FC",
+        "seed2": null,
+        "team2": "SIE KORPORAT",
         "winner": null
       },
       {
-        "seed1": 3,
-        "team1": "S ASTERION HERO",
-        "seed2": 30,
-        "team2": "NETWORK FC",
-        "winner": null
-      },
-      {
-        "seed1": 14,
-        "team1": "THE BROTHERS VALTUS",
-        "seed2": 19,
-        "team2": "AGILITY ETHEREAL",
-        "winner": null
-      },
-      {
-        "seed1": 6,
-        "team1": "SMK BUDINIAH",
-        "seed2": 27,
-        "team2": "DOMINILUX",
-        "winner": null
-      },
-      {
-        "seed1": 11,
-        "team1": "AGILITY SHINIGAMI",
-        "seed2": 22,
-        "team2": "PABLO GANG",
+        "seed1": null,
+        "team1": "DOMINILUX",
+        "seed2": null,
+        "team2": "S ASTERION SUPREMACY",
         "winner": null
       }
     ],
     [
       {
-        "team1": null,
-        "team2": null,
+        "team1": "AGILITY NOVA",
+        "team2": "HELIX",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "PABLO GANG",
+        "team2": "NEO",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "SIKIK AAA",
+        "team2": "THE BROTHERS IMPROVE",
         "winner": null
       },
       {
-        "team1": null,
-        "team2": null,
+        "team1": "NETWORK FC",
+        "team2": "S ASTERION SUPREMACY",
         "winner": null
       }
     ],
