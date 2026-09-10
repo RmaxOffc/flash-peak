@@ -2,221 +2,217 @@
   "tournament": "APEX MASTER CHAMP S1",
   "year": 2026,
   "date": "2026-09-03",
-  "status": "Completed",
-  "champion": "THE BROTHERS CONQUEROR",
+  "status": "Upcoming",
+  "champion": null,
   "awards": {
-    "winner": "THE BROTHERS CONQUEROR",
-    "mvp": null,
-    "golden_boot": null,
-    "best_midfielder": null,
-    "best_defender": null,
-    "best_goalkeeper": null
+    "MVP": null,
+    "Best_Striker": null,
+    "Best_Defender": null,
+    "Best_Playmaker": null
   },
-  "left": [
-    [
+  "left_bracket": {
+    "R1": [
       {
-        "seed1": null,
-        "team1": "THE BROTHERS GAMBIT",
-        "seed2": null,
+        "match": 1,
+        "team1": "THE BROTHER'S GAMBIT",
         "team2": "AGILITY SHINIGAMI",
-        "winner": "THE BROTHERS GAMBIT"
+        "winner": "THE BROTHER'S GAMBIT"
       },
       {
-        "seed1": null,
+        "match": 2,
         "team1": "MEDIOKER FC",
-        "seed2": null,
-        "team2": "THE BROTHERS ACESA",
-        "winner": "THE BROTHERS ACESA"
+        "team2": "THE BROTHER'S ACESA",
+        "winner": "THE BROTHER'S ACESA"
       },
       {
-        "seed1": null,
+        "match": 3,
         "team1": "AGILITY ETHEREAL",
-        "seed2": null,
         "team2": "7SINS BLUELOCK",
         "winner": "AGILITY ETHEREAL"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS VALTUS",
-        "seed2": null,
+        "match": 4,
+        "team1": "THE BROTHER'S VALTUS",
         "team2": "S ASTERION HERO",
-        "winner": "THE BROTHERS VALTUS"
+        "winner": "THE BROTHER'S VALTUS"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS INVICTUS",
-        "seed2": null,
+        "match": 5,
+        "team1": "THE BROTHER'S INVICTUS",
         "team2": "ASTRA LUMINA",
-        "winner": "THE BROTHERS INVICTUS"
+        "winner": "THE BROTHER'S INVICTUS"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS 4K",
-        "seed2": null,
+        "match": 6,
+        "team1": "THE BROTHER'S 4K",
         "team2": "ALWAYS COMPETE",
-        "winner": "THE BROTHERS 4K"
+        "winner": "THE BROTHER'S 4K"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS CONQUEROR",
-        "seed2": null,
+        "match": 7,
+        "team1": "THE BROTHER'S CONQUEROR",
         "team2": "SMK BUDINIAH",
-        "winner": "THE BROTHERS CONQUEROR"
+        "winner": "THE BROTHER'S CONQUEROR"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS ALPHA",
-        "seed2": null,
+        "match": 8,
+        "team1": "THE BROTHER'S ALPHA",
         "team2": "AGILITY NIGHTFALL",
-        "winner": "THE BROTHERS ALPHA"
+        "winner": "THE BROTHER'S ALPHA"
       }
     ],
-    [
+    "R2": [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "THE BROTHERS ACESA",
-        "winner": "THE BROTHERS GAMBIT"
+        "match": 1,
+        "team1": "THE BROTHER'S GAMBIT",
+        "team2": "THE BROTHER'S ACESA",
+        "winner": "THE BROTHER'S GAMBIT"
       },
       {
+        "match": 2,
         "team1": "AGILITY ETHEREAL",
         "team2": "S ASTERION ZERO",
-        "winner": "AGILITY ETHEREAL"
+        "winner": "S ASTERION ZERO"
       },
       {
-        "team1": "THE BROTHERS INVICTUS",
-        "team2": "THE BROTHERS 4K",
-        "winner": "THE BROTHERS INVICTUS"
+        "match": 3,
+        "team1": "THE BROTHER'S INVICTUS",
+        "team2": "THE BROTHER'S 4K",
+        "winner": "THE BROTHER'S INVICTUS"
       },
       {
-        "team1": "THE BROTHERS CONQUEROR",
-        "team2": "THE BROTHERS ALPHA",
-        "winner": "THE BROTHERS CONQUEROR"
+        "match": 4,
+        "team1": "THE BROTHER'S CONQUEROR",
+        "team2": "THE BROTHER'S ALPHA",
+        "winner": "THE BROTHER'S CONQUEROR"
       }
     ],
-    [
+    "R3": [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "AGILITY ETHEREAL",
-        "winner": "THE BROTHERS GAMBIT"
+        "match": 1,
+        "team1": "THE BROTHER'S GAMBIT",
+        "team2": "S ASTERION ZERO",
+        "winner": "S ASTERION ZERO"
       },
       {
-        "team1": "THE BROTHERS INVICTUS",
-        "team2": "THE BROTHERS CONQUEROR",
-        "winner": "THE BROTHERS CONQUEROR"
+        "match": 2,
+        "team1": "THE BROTHER'S INVICTUS",
+        "team2": "THE BROTHER'S CONQUEROR",
+        "winner": "THE BROTHER'S CONQUEROR"
       }
     ],
-    [
+    "R4": {
+      "team1": "S ASTERION ZERO",
+      "team2": "THE BROTHER'S CONQUEROR",
+      "winner": "S ASTERION ZERO"
+    }
+  },
+  "right_bracket": {
+    "R1": [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "THE BROTHERS CONQUEROR",
-        "winner": "THE BROTHERS CONQUEROR"
-      }
-    ]
-  ],
-  "right": [
-    [
-      {
-        "seed1": null,
-        "team1": "ToT ESPORT",
-        "seed2": null,
+        "match": 1,
+        "team1": "TOt ESPORT",
         "team2": "AGILITY NOVA",
         "winner": "AGILITY NOVA"
       },
       {
-        "seed1": null,
+        "match": 2,
         "team1": "S ASTERION ASCENDANT",
-        "seed2": null,
         "team2": "HELIX",
         "winner": "HELIX"
       },
       {
-        "seed1": null,
+        "match": 3,
         "team1": "NEXUS",
-        "seed2": null,
         "team2": "PABLO GANG",
-        "winner": "NEXUS"
+        "winner": "PABLO GANG"
       },
       {
-        "seed1": null,
+        "match": 4,
         "team1": "MATAMUDA FC",
-        "seed2": null,
         "team2": "NEO",
         "winner": "NEO"
       },
       {
-        "seed1": null,
+        "match": 5,
         "team1": "SIKIK AAA",
-        "seed2": null,
         "team2": "ARES LEGION",
         "winner": "SIKIK AAA"
       },
       {
-        "seed1": null,
-        "team1": "THE BROTHERS IMPROVE",
-        "seed2": null,
+        "match": 6,
+        "team1": "THE BROTHER'S IMPROVE",
         "team2": "Anthingi mokohengo",
-        "winner": "THE BROTHERS IMPROVE"
+        "winner": "THE BROTHER'S IMPROVE"
       },
       {
-        "seed1": null,
+        "match": 7,
         "team1": "NETWORK FC",
-        "seed2": null,
         "team2": "SIE KORPORAT",
         "winner": "NETWORK FC"
       },
       {
-        "seed1": null,
+        "match": 8,
         "team1": "DOMINILUX",
-        "seed2": null,
         "team2": "S ASTERION SUPREMACY",
         "winner": "S ASTERION SUPREMACY"
       }
     ],
-    [
+    "R2": [
       {
+        "match": 1,
         "team1": "AGILITY NOVA",
         "team2": "HELIX",
         "winner": "HELIX"
       },
       {
-        "team1": "NEXUS",
+        "match": 2,
+        "team1": "PABLO GANG",
         "team2": "NEO",
-        "winner": "NEO"
+        "winner": "PABLO GANG"
       },
       {
+        "match": 3,
         "team1": "SIKIK AAA",
-        "team2": "THE BROTHERS IMPROVE",
-        "winner": "THE BROTHERS IMPROVE"
+        "team2": "THE BROTHER'S IMPROVE",
+        "winner": "THE BROTHER'S IMPROVE"
       },
       {
+        "match": 4,
         "team1": "NETWORK FC",
         "team2": "S ASTERION SUPREMACY",
         "winner": "S ASTERION SUPREMACY"
       }
     ],
-    [
+    "R3": [
       {
+        "match": 1,
         "team1": "HELIX",
-        "team2": "NEO",
+        "team2": "PABLO GANG",
         "winner": "HELIX"
       },
       {
-        "team1": "THE BROTHERS IMPROVE",
+        "match": 2,
+        "team1": "THE BROTHER'S IMPROVE",
         "team2": "S ASTERION SUPREMACY",
-        "winner": "S ASTERION SUPREMACY"
+        "winner": "THE BROTHER'S IMPROVE"
       }
     ],
-    [
-      {
-        "team1": "HELIX",
-        "team2": "S ASTERION SUPREMACY",
-        "winner": "HELIX"
-      }
-    ]
-  ],
+    "R4": {
+      "team1": "HELIX",
+      "team2": "THE BROTHER'S IMPROVE",
+      "winner": "HELIX"
+    }
+  },
+  "third_place": {
+    "team1": "S ASTERION ZERO",
+    "team2": "THE BROTHER'S IMPROVE",
+    "result": "WO",
+    "winner": "S ASTERION ZERO"
+  },
   "final": {
-    "team1": "THE BROTHERS CONQUEROR",
+    "team1": "S ASTERION ZERO",
     "team2": "HELIX",
-    "winner": "THE BROTHERS CONQUEROR"
+    "winner": null
   }
       }
