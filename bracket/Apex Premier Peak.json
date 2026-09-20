@@ -3,14 +3,14 @@
   "year": 2026,
   "date": "2026-09-03",
   "status": "Upcoming",
-  "champion": null,
+  "champion": "",
   "awards": {
-    "winner": null,
-    "mvp": null,
-    "golden_boot": null,
-    "best_midfielder": null,
-    "best_defender": null,
-    "best_goalkeeper": null
+    "winner": "",
+    "mvp": "",
+    "golden_boot": "",
+    "best_midfielder": "",
+    "best_defender": "",
+    "best_goalkeeper": ""
   },
   "left": [
     [
@@ -79,8 +79,8 @@
       },
       {
         "team1": "AGILITY ETHEREAL",
-        "team2": "S ASTERION ZERO",
-        "winner": "S ASTERION ZERO"
+        "team2": "THE BROTHERS VALTUS",
+        "winner": "THE BROTHERS VALTUS"
       },
       {
         "team1": "THE BROTHERS INVICTUS",
@@ -96,8 +96,8 @@
     [
       {
         "team1": "THE BROTHERS GAMBIT",
-        "team2": "S ASTERION ZERO",
-        "winner": "S ASTERION ZERO"
+        "team2": "THE BROTHERS VALTUS",
+        "winner": "THE BROTHERS GAMBIT"
       },
       {
         "team1": "THE BROTHERS INVICTUS",
@@ -107,9 +107,9 @@
     ],
     [
       {
-        "team1": "S ASTERION ZERO",
+        "team1": "THE BROTHERS GAMBIT",
         "team2": "THE BROTHERS CONQUEROR",
-        "winner": "S ASTERION ZERO"
+        "winner": "TBD"
       }
     ]
   ],
@@ -210,19 +210,19 @@
       {
         "team1": "HELIX",
         "team2": "THE BROTHERS IMPROVE",
-        "winner": "HELIX"
+        "winner": "TBD"
       }
     ]
   ],
   "third_place": {
-    "team1": "S ASTERION ZERO",
-    "team2": "THE BROTHERS IMPROVE",
-    "winner": "S ASTERION ZERO",
-    "result": "WO"
+    "team1": "TBD",
+    "team2": "TBD",
+    "winner": "TBD",
+    "result": "TBD"
   },
   "final": {
-    "team1": "S ASTERION ZERO",
-    "team2": "HELIX",
-    "winner": null
+    "team1": "TBD",
+    "team2": "TBD",
+    "winner": "TBD"
   }
 }
