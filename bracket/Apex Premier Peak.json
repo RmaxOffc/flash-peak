@@ -1,14 +1,14 @@
 {
   "tournament": "Apex Premier Peak",
   "year": 2026,
-  "date": "2026-09-16",
-  "status": "beres",
-  "champion": null,
+  "date": "2026-09-03",
+  "status": "Upcoming",
+  "champion": "TBD",
   "awards": {
-    "MVP": null,
-    "Best_Striker": null,
-    "Best_Defender": null,
-    "Best_Playmaker": null
+    "MVP": "TBD",
+    "Best_Striker": "TBD",
+    "Best_Defender": "TBD",
+    "Best_Playmaker": "TBD"
   },
   "left_bracket": {
     "R1": [
@@ -189,6 +189,6 @@
   "final": {
     "team1": "S ASTERION ZERO",
     "team2": "HELIX",
-    "winner": null
+    "winner": "TBD"
   }
 }
