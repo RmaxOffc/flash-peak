@@ -1,0 +1,194 @@
+{
+  "tournament": "Apex Premier Peak",
+  "year": 2026,
+  "date": "2026-09-16",
+  "status": "beres",
+  "champion": null,
+  "awards": {
+    "MVP": null,
+    "Best_Striker": null,
+    "Best_Defender": null,
+    "Best_Playmaker": null
+  },
+  "left_bracket": {
+    "R1": [
+      {
+        "team1": "THE BROTHERS GAMBIT",
+        "team2": "AGILITY SHINIGAMI",
+        "winner": "THE BROTHERS GAMBIT"
+      },
+      {
+        "team1": "MEDIOKER FC",
+        "team2": "THE BROTHERS ACESA",
+        "winner": "THE BROTHERS ACESA"
+      },
+      {
+        "team1": "AGILITY ETHEREAL",
+        "team2": "7SINS BLUELOCK",
+        "winner": "AGILITY ETHEREAL"
+      },
+      {
+        "team1": "THE BROTHERS VALTUS",
+        "team2": "S ASTERION HERO",
+        "winner": "THE BROTHERS VALTUS"
+      },
+      {
+        "team1": "THE BROTHERS INVICTUS",
+        "team2": "ASTRA LUMINA",
+        "winner": "THE BROTHERS INVICTUS"
+      },
+      {
+        "team1": "THE BROTHERS 4K",
+        "team2": "ALWAYS COMPETE",
+        "winner": "THE BROTHERS 4K"
+      },
+      {
+        "team1": "THE BROTHERS CONQUEROR",
+        "team2": "SMK BUDINIAH",
+        "winner": "THE BROTHERS CONQUEROR"
+      },
+      {
+        "team1": "THE BROTHERS ALPHA",
+        "team2": "AGILITY NIGHTFALL",
+        "winner": "THE BROTHERS ALPHA"
+      }
+    ],
+    "R2": [
+      {
+        "team1": "THE BROTHERS GAMBIT",
+        "team2": "THE BROTHERS ACESA",
+        "winner": "THE BROTHERS GAMBIT"
+      },
+      {
+        "team1": "AGILITY ETHEREAL",
+        "team2": "S ASTERION ZERO",
+        "winner": "S ASTERION ZERO"
+      },
+      {
+        "team1": "THE BROTHERS INVICTUS",
+        "team2": "THE BROTHERS 4K",
+        "winner": "THE BROTHERS INVICTUS"
+      },
+      {
+        "team1": "THE BROTHERS CONQUEROR",
+        "team2": "THE BROTHERS ALPHA",
+        "winner": "THE BROTHERS CONQUEROR"
+      }
+    ],
+    "R3": [
+      {
+        "team1": "THE BROTHERS GAMBIT",
+        "team2": "S ASTERION ZERO",
+        "winner": "S ASTERION ZERO"
+      },
+      {
+        "team1": "THE BROTHERS INVICTUS",
+        "team2": "THE BROTHERS CONQUEROR",
+        "winner": "THE BROTHERS CONQUEROR"
+      }
+    ],
+    "R4": [
+      {
+        "team1": "S ASTERION ZERO",
+        "team2": "THE BROTHERS CONQUEROR",
+        "winner": "S ASTERION ZERO"
+      }
+    ]
+  },
+  "right_bracket": {
+    "R1": [
+      {
+        "team1": "TOt ESPORT",
+        "team2": "AGILITY NOVA",
+        "winner": "AGILITY NOVA"
+      },
+      {
+        "team1": "S ASTERION ASCENDANT",
+        "team2": "HELIX",
+        "winner": "HELIX"
+      },
+      {
+        "team1": "NEXUS",
+        "team2": "PABLO GANG",
+        "winner": "PABLO GANG"
+      },
+      {
+        "team1": "MATAMUDA FC",
+        "team2": "NEO",
+        "winner": "NEO"
+      },
+      {
+        "team1": "SIKIK AAA",
+        "team2": "ARES LEGION",
+        "winner": "SIKIK AAA"
+      },
+      {
+        "team1": "THE BROTHERS IMPROVE",
+        "team2": "Anthingi mokohengo",
+        "winner": "THE BROTHERS IMPROVE"
+      },
+      {
+        "team1": "NETWORK FC",
+        "team2": "SIE KORPORAT",
+        "winner": "NETWORK FC"
+      },
+      {
+        "team1": "DOMINILUX",
+        "team2": "S ASTERION SUPREMACY",
+        "winner": "S ASTERION SUPREMACY"
+      }
+    ],
+    "R2": [
+      {
+        "team1": "AGILITY NOVA",
+        "team2": "HELIX",
+        "winner": "HELIX"
+      },
+      {
+        "team1": "PABLO GANG",
+        "team2": "NEO",
+        "winner": "PABLO GANG"
+      },
+      {
+        "team1": "SIKIK AAA",
+        "team2": "THE BROTHERS IMPROVE",
+        "winner": "THE BROTHERS IMPROVE"
+      },
+      {
+        "team1": "NETWORK FC",
+        "team2": "S ASTERION SUPREMACY",
+        "winner": "THE BROTHERS IMPROVE"
+      }
+    ],
+    "R3": [
+      {
+        "team1": "HELIX",
+        "team2": "PABLO GANG",
+        "winner": "HELIX"
+      },
+      {
+        "team1": "THE BROTHERS IMPROVE",
+        "team2": "S ASTERION SUPREMACY",
+        "winner": "THE BROTHERS IMPROVE"
+      }
+    ],
+    "R4": [
+      {
+        "team1": "HELIX",
+        "team2": "THE BROTHERS IMPROVE",
+        "winner": "HELIX"
+      }
+    ]
+  },
+  "third_place": {
+    "team1": "S ASTERION ZERO",
+    "team2": "THE BROTHERS IMPROVE",
+    "winner": "S ASTERION ZERO",
+    "result": "WO"
+  },
+  "final": {
+    "team1": "S ASTERION ZERO",
+    "team2": "HELIX",
+    "winner": null
+  }
+}
