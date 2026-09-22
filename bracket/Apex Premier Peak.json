@@ -1,115 +1,125 @@
 {
   "tournament": "Apex Premier Peak",
   "year": 2026,
-  "date": "2026-09-03",
+  "date": "2026-09-16",
   "status": "Upcoming",
-  "champion": "",
+  "champion": "TBD",
   "awards": {
-    "winner": "",
-    "mvp": "",
-    "golden_boot": "",
-    "best_midfielder": "",
-    "best_defender": "",
-    "best_goalkeeper": ""
+    "winner": "TBD",
+    "mvp": "TBD",
+    "golden_boot": "TBD",
+    "best_midfielder": "TBD",
+    "best_defender": "TBD",
+    "best_goalkeeper": "TBD"
   },
   "left": [
     [
       {
         "seed1": 1,
-        "team1": "THE BROTHERS GAMBIT",
-        "seed2": 16,
-        "team2": "AGILITY SHINIGAMI",
-        "winner": "THE BROTHERS GAMBIT"
-      },
-      {
-        "seed1": 8,
-        "team1": "MEDIOKER FC",
-        "seed2": 9,
-        "team2": "THE BROTHERS ACESA",
-        "winner": "THE BROTHERS ACESA"
-      },
-      {
-        "seed1": 5,
-        "team1": "AGILITY ETHEREAL",
-        "seed2": 12,
-        "team2": "7SINS BLUELOCK",
-        "winner": "AGILITY ETHEREAL"
-      },
-      {
-        "seed1": 4,
-        "team1": "THE BROTHERS VALTUS",
-        "seed2": 13,
-        "team2": "S ASTERION HERO",
-        "winner": "THE BROTHERS VALTUS"
+        "team1": "Vanguard",
+        "seed2": 2,
+        "team2": "Sikik aaa",
+        "winner": "Sikik aaa"
       },
       {
         "seed1": 3,
-        "team1": "THE BROTHERS INVICTUS",
-        "seed2": 14,
-        "team2": "ASTRA LUMINA",
-        "winner": "THE BROTHERS INVICTUS"
+        "team1": "The Apostles",
+        "seed2": 4,
+        "team2": "7sinsbluelock",
+        "winner": "The Apostles"
       },
       {
-        "seed1": 6,
-        "team1": "THE BROTHERS 4K",
-        "seed2": 11,
-        "team2": "ALWAYS COMPETE",
-        "winner": "THE BROTHERS 4K"
+        "seed1": 5,
+        "team1": "Akatsuki",
+        "seed2": 6,
+        "team2": "Dominilux",
+        "winner": "Akatsuki"
       },
       {
         "seed1": 7,
-        "team1": "THE BROTHERS CONQUEROR",
+        "team1": "Helix moonbreaker",
+        "seed2": 8,
+        "team2": "Btreds praise",
+        "winner": "Helix moonbreaker"
+      },
+      {
+        "seed1": 9,
+        "team1": "Mas Yudistira",
         "seed2": 10,
-        "team2": "SMK BUDINIAH",
-        "winner": "THE BROTHERS CONQUEROR"
+        "team2": "Matamuda fc",
+        "winner": "Mas Yudistira"
       },
       {
-        "seed1": 2,
-        "team1": "THE BROTHERS ALPHA",
-        "seed2": 15,
-        "team2": "AGILITY NIGHTFALL",
-        "winner": "THE BROTHERS ALPHA"
+        "seed1": 11,
+        "team1": "Kazekage",
+        "seed2": 12,
+        "team2": "Nova",
+        "winner": "Nova"
+      },
+      {
+        "seed1": 13,
+        "team1": "Teil esport",
+        "seed2": 14,
+        "team2": "Astra L Dark",
+        "winner": "Teil esport"
+      },
+      {
+        "seed1": 15,
+        "team1": "Team Zodiac",
+        "seed2": 16,
+        "team2": "Evrosheim",
+        "winner": "Team Zodiac"
       }
     ],
     [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "THE BROTHERS ACESA",
-        "winner": "THE BROTHERS GAMBIT"
+        "team1": "Sikik aaa",
+        "team2": "The Apostles",
+        "winner": "Sikik aaa"
       },
       {
-        "team1": "AGILITY ETHEREAL",
-        "team2": "THE BROTHERS VALTUS",
-        "winner": "THE BROTHERS VALTUS"
+        "team1": "Akatsuki",
+        "team2": "Helix moonbreaker",
+        "winner": "Helix moonbreaker"
       },
       {
-        "team1": "THE BROTHERS INVICTUS",
-        "team2": "THE BROTHERS 4K",
-        "winner": "THE BROTHERS INVICTUS"
+        "team1": "Mas Yudistira",
+        "team2": "Nova",
+        "winner": "Mas Yudistira"
       },
       {
-        "team1": "THE BROTHERS CONQUEROR",
-        "team2": "THE BROTHERS ALPHA",
-        "winner": "THE BROTHERS CONQUEROR"
+        "team1": "Teil esport",
+        "team2": "Team Zodiac",
+        "winner": "Teil esport"
       }
     ],
     [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "THE BROTHERS VALTUS",
-        "winner": "THE BROTHERS GAMBIT"
+        "team1": "Sikik aaa",
+        "team2": "Helix moonbreaker",
+        "winner": "Sikik aaa"
       },
       {
-        "team1": "THE BROTHERS INVICTUS",
-        "team2": "THE BROTHERS CONQUEROR",
-        "winner": "THE BROTHERS CONQUEROR"
+        "team1": "Mas Yudistira",
+        "team2": "Nova",
+        "winner": "Mas Yudistira"
+      },
+      {
+        "team1": "Teil esport",
+        "team2": "Team Zodiac",
+        "winner": "Teil esport"
       }
     ],
     [
       {
-        "team1": "THE BROTHERS GAMBIT",
-        "team2": "THE BROTHERS CONQUEROR",
-        "winner": "TBD"
+        "team1": "Sikik aaa",
+        "team2": "Helix moonbreaker",
+        "winner": "Sikik aaa"
+      },
+      {
+        "team1": "Mas Yudistira",
+        "team2": "Teil esport",
+        "winner": "Teil esport"
       }
     ]
   ],
@@ -117,112 +127,112 @@
     [
       {
         "seed1": 1,
-        "team1": "TOt ESPORT",
-        "seed2": 16,
-        "team2": "AGILITY NOVA",
-        "winner": "AGILITY NOVA"
-      },
-      {
-        "seed1": 8,
-        "team1": "S ASTERION ASCENDANT",
-        "seed2": 9,
-        "team2": "HELIX",
-        "winner": "HELIX"
-      },
-      {
-        "seed1": 5,
-        "team1": "NEXUS",
-        "seed2": 12,
-        "team2": "PABLO GANG",
-        "winner": "PABLO GANG"
-      },
-      {
-        "seed1": 4,
-        "team1": "MATAMUDA FC",
-        "seed2": 13,
-        "team2": "NEO",
-        "winner": "NEO"
+        "team1": "Nyasar Paperqiu",
+        "seed2": 2,
+        "team2": "European Club",
+        "winner": "Nyasar Paperqiu"
       },
       {
         "seed1": 3,
-        "team1": "SIKIK AAA",
-        "seed2": 14,
-        "team2": "ARES LEGION",
-        "winner": "SIKIK AAA"
+        "team1": "Avalon Ace",
+        "seed2": 4,
+        "team2": "Network Fc",
+        "winner": "Avalon Ace"
       },
       {
-        "seed1": 6,
-        "team1": "THE BROTHERS IMPROVE",
-        "seed2": 11,
-        "team2": "Anthingi mokohengo",
-        "winner": "THE BROTHERS IMPROVE"
+        "seed1": 5,
+        "team1": "Astra Lumina",
+        "seed2": 6,
+        "team2": "Helix Eclipse",
+        "winner": "Astra Lumina"
       },
       {
         "seed1": 7,
-        "team1": "NETWORK FC",
+        "team1": "Startound Asterion",
+        "seed2": 8,
+        "team2": "Octagon",
+        "winner": "Octagon"
+      },
+      {
+        "seed1": 9,
+        "team1": "Revenger",
         "seed2": 10,
-        "team2": "SIE KORPORAT",
-        "winner": "NETWORK FC"
+        "team2": "Btreds Poise",
+        "winner": "Btreds Poise"
       },
       {
-        "seed1": 2,
-        "team1": "DOMINILUX",
-        "seed2": 15,
-        "team2": "S ASTERION SUPREMACY",
-        "winner": "S ASTERION SUPREMACY"
+        "seed1": 11,
+        "team1": "Mas Bima",
+        "seed2": 12,
+        "team2": "Team Ogah mundur",
+        "winner": "Mas Bima"
+      },
+      {
+        "seed1": 13,
+        "team1": "The Great Ruler",
+        "seed2": 14,
+        "team2": "One Shot Men",
+        "winner": "One Shot Men"
+      },
+      {
+        "seed1": 15,
+        "team1": "Hoki Bgh",
+        "seed2": 16,
+        "team2": "Hokage",
+        "winner": "Hokage"
       }
     ],
     [
       {
-        "team1": "AGILITY NOVA",
-        "team2": "HELIX",
-        "winner": "HELIX"
+        "team1": "Nyasar Paperqiu",
+        "team2": "Avalon Ace",
+        "winner": "Nyasar Paperqiu"
       },
       {
-        "team1": "PABLO GANG",
-        "team2": "NEO",
-        "winner": "PABLO GANG"
+        "team1": "Astra Lumina",
+        "team2": "Octagon",
+        "winner": "Astra Lumina"
       },
       {
-        "team1": "SIKIK AAA",
-        "team2": "THE BROTHERS IMPROVE",
-        "winner": "THE BROTHERS IMPROVE"
+        "team1": "Btreds Poise",
+        "team2": "Mas Bima",
+        "winner": "Btreds Poise"
       },
       {
-        "team1": "NETWORK FC",
-        "team2": "S ASTERION SUPREMACY",
-        "winner": "THE BROTHERS IMPROVE"
+        "team1": "One Shot Men",
+        "team2": "Hokage",
+        "winner": "One Shot Men"
       }
     ],
     [
       {
-        "team1": "HELIX",
-        "team2": "PABLO GANG",
-        "winner": "HELIX"
+        "team1": "Nyasar Paperqiu",
+        "team2": "Astra Lumina",
+        "winner": "Astra Lumina"
       },
       {
-        "team1": "THE BROTHERS IMPROVE",
-        "team2": "S ASTERION SUPREMACY",
-        "winner": "THE BROTHERS IMPROVE"
+        "team1": "Btreds Poise",
+        "team2": "One Shot Men",
+        "winner": "Btreds Poise"
       }
     ],
     [
       {
-        "team1": "HELIX",
-        "team2": "THE BROTHERS IMPROVE",
-        "winner": "TBD"
+        "team1": "Astra Lumina",
+        "team2": "Btreds Poise",
+        "winner": "Astra Lumina"
       }
     ]
   ],
   "third_place": {
-    "team1": "TBD",
-    "team2": "TBD",
+    "team1": "Teil esport",
+    "team2": "Btreds Poise",
     "winner": "TBD",
     "result": "TBD"
   },
   "final": {
-    "team1": "TBD",
-    "team2": "TBD",
+    "team1": "Sikik aaa",
+    "team2": "Astra Lumina",
     "winner": "TBD"
   }
 }
