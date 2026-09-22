@@ -1,0 +1,34 @@
+{
+  "id": "club-1787110755201",
+  "name": "GUNNERS",
+  "icon": "https://files.catbox.moe/4fcyuy.jpg",
+  "description": "Born in the classroom, built for competition. GUNNERS adalah klub Flash Peak berisi 4 siswa kelas 12 SMAN 1 Madiun dan 1 kiper undangan. Dengan identitas nickname satu huruf, kami mencatatkan Top 8 di turnamen official pertama.",
+  "leader_uid": "10425078",
+  "members": [
+    {
+      "uid": "10425078",
+      "name": "ᛉ",
+      "role": "Leader | CB"
+    },
+    {
+      "uid": "10554249",
+      "name": "δ",
+      "role": "Member | CB"
+    },
+    {
+      "uid": "10552186",
+      "name": "φ",
+      "role": "Vice Leader | WF"
+    },
+    {
+      "uid": "10553270",
+      "name": "Ƶ",
+      "role": "Member | ST"
+    },
+    {
+      "uid": "10153440",
+      "name": "ƛ",
+      "role": "Member | GK"
+    }
+  ]
+}
